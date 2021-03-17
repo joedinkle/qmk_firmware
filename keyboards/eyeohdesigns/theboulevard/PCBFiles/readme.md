@@ -18,7 +18,7 @@ RGB.
 
 Tweezer test every single key. The continuity checks and the test of each key in a row and column will suffice.
 
-Compatibility with the open source plate. I know that these PCBs fit in the case, but I don't have the time or resources to ensure everything lines up on the plate. I did take some measurements when initially staarting this project, and noticed that although the case had .25u spacing between the left most column and the main key cluster, at least one of the switch plates did not have this spacing. The PCB I designed uses .25u spacing between the left most column and the main key cluster.
+Compatibility with the open source plate. I know that these PCBs fit in the case, but I don't have the time or resources to ensure everything lines up on the plate. I did take some measurements when initially staarting this project, and noticed that although the case had .5u spacing between the left most column and the main key cluster, at least one of the switch plates did not have this spacing. The PCB I designed uses .5u spacing between the left most column and the main key cluster.
 
 ## Known issues:
 
