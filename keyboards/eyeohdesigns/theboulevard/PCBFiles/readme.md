@@ -3,8 +3,11 @@ The purpose of this project was to make a working PCB compatible with the open s
 Items tested:
 
 Continuity between all keys in each row.
+
 Continuity between all keys in each column.
+
 Tweezer tested one key in each row and column.
+
 Encoder functionality.
 
 Items yet to be tested:
