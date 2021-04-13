@@ -10,9 +10,7 @@ Tweezer tested one key in each row and column.
 
 Encoder functionality.
 
-## Items yet to be tested:
-
-RGB.
+RGB. I used the standard footprint in Kicad for the through hole RGB. When I wired up the RGB I got off Amazon (which didn't have a datasheet) it was in reverse. Once I flipped the RGB, everything worked fine. Be sure to check the datasheet on your light before installing.
 
 ## Items I do not intend to test in the near future:
 
