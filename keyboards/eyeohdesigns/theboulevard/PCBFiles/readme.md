@@ -1,6 +1,6 @@
 ## The purpose of this project was to make a working PCB compatible with the open source case for The Ave.
 
-##25 May 2021 Commit
+## 25 May 2021 Commit
 The JST for the unified daughterboard was reversed. This commit fixes that issue and brings the PCB into compliance with the UDB spec.
 
 ## Items tested:
