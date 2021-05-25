@@ -1,4 +1,4 @@
-16518499824551350
+16631424825178666
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -202,6 +202,69 @@ battery CR1225 coin cell
 0
 0
 0
+Battery
+Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles
+Panasonic CR-1025/VSK battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
+battery CR-1025 coin cell vertical
+0
+2
+2
+Battery
+Battery_Panasonic_CR1220-VCN_Vertical_CircularHoles
+Panasonic CR-1220/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
+battery CR-1220 coin cell vertical
+0
+2
+2
+Battery
+Battery_Panasonic_CR1632-V1AN_Vertical_CircularHoles
+Panasonic CR-1632-V1AN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
+battery CR-1632 coin cell vertical
+0
+2
+2
+Battery
+Battery_Panasonic_CR2025-V1AK_Vertical_CircularHoles
+Panasonic CR-2025/V1AK battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
+battery CR-2025 coin cell vertical
+0
+2
+2
+Battery
+Battery_Panasonic_CR2032-VS1N_Vertical_CircularHoles
+Panasonic CR-2032/VS1N battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
+battery CR-2032 coin cell vertical
+0
+2
+2
+Battery
+Battery_Panasonic_CR2354-VCN_Vertical_CircularHoles
+Panasonic CR-2354/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
+battery CR-2354/VCN coin cell vertical
+0
+2
+2
+Battery
+Battery_Panasonic_CR2450-VAN_Vertical_CircularHoles
+Panasonic CR-2450/VAN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
+battery CR-2450 coin cell
+0
+2
+2
+Battery
+Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles
+Panasonic CR-2477/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
+battery CR-2477 coin cell vertical
+0
+2
+2
+Battery
+Battery_Panasonic_CR3032-VCN_Vertical_CircularHoles
+Panasonic CR-3032/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
+battery CR-3032 coin cell vertical
+0
+2
+2
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -1063,6 +1126,13 @@ switch normally-open pushbutton push-button
 0
 4
 4
+Button_Switch_SMD
+SW_Push_1P1T_NO_6x6mm_H9.5mm
+tactile push button, 6x6mm e.g. PTS645xx series, height=9.5mm
+tact sw push 6mm smd
+0
+4
+2
 Button_Switch_SMD
 SW_Push_1P1T_NO_CK_KMR2
 CK components KMR2 tactile switch http://www.ckswitches.com/media/1479/kmr2.pdf
@@ -5963,6 +6033,279 @@ tag connect programming header pogo pins
 0
 14
 14
+Connector-USB-new
+USB3_A_Molex_48393-001
+USB 3.0, type A, right angle (http://www.molex.com/pdm_docs/sd/483930003_sd.pdf)
+USB 3.0 type A right angle
+0
+13
+10
+Connector-USB-new
+USB3_A_Plug_Wuerth_692112030100_Horizontal
+USB type A Plug, Horizontal, http://katalog.we-online.de/em/datasheet/692112030100.pdf
+usb A plug horizontal
+0
+11
+10
+Connector-USB-new
+USB_A_CNCTech_1001-011-01101_Horizontal
+http://cnctech.us/pdfs/1001-011-01101.pdf
+USB-A
+0
+6
+5
+Connector-USB-new
+USB_A_Molex_105057_Vertical
+https://www.molex.com/pdm_docs/sd/1050570001_sd.pdf
+USB A Vertical
+0
+7
+5
+Connector-USB-new
+USB_A_Stewart_SS-52100-001_Horizontal
+USB A connector https://belfuse.com/resources/drawings/stewartconnector/dr-stw-ss-52100-001.pdf
+USB_A Female Connector receptacle
+0
+6
+5
+Connector-USB-new
+USB_A_Wuerth_61400826021_Horizontal_Stacked
+Stacked USB A connector http://katalog.we-online.de/em/datasheet/61400826021.pdf
+Wuerth stacked USB_A
+0
+12
+9
+Connector-USB-new
+USB_B_Amphenol_MUSB-D511_Vertical_Rugged
+A,phenol MUSB_D511, USB B female connector, straight, rugged, https://www.amphenolcanada.com/ProductSearch/drawings/AC/MUSBD511XX.pdf
+USB_B_MUSB_Straight female connector straight rugged MUSB D511
+0
+6
+5
+Connector-USB-new
+USB_B_OST_USB-B1HSxx_Horizontal
+USB B receptacle, Horizontal, through-hole, http://www.on-shore.com/wp-content/uploads/2015/09/usb-b1hsxx.pdf
+USB-B receptacle horizontal through-hole
+0
+6
+5
+Connector-USB-new
+USB_B_TE_5787834_Vertical
+http://www.mouser.com/ds/2/418/NG_CD_5787834_A4-669110.pdf
+USB_B USB B vertical female connector
+0
+6
+5
+Connector-USB-new
+USB_C_Plug_Molex_105444
+Universal Serial Bus (USB) Shielded I/O Plug, Type C, Right Angle, Surface Mount, http://www.molex.com/pdm_docs/sd/1054440001_sd.pdf
+USB Type-C Plug Edge Mount
+0
+24
+23
+Connector-USB-new
+USB_C_Receptacle_Amphenol_12401548E4-2A
+USB TYPE C, RA RCPT PCB, Hybrid, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401548E4%7e2A
+USB C Type-C Receptacle Hybrid
+0
+28
+25
+Connector-USB-new
+USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles
+USB TYPE C, RA RCPT PCB, Hybrid, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401548E4%7e2A
+USB C Type-C Receptacle Hybrid
+0
+28
+25
+Connector-USB-new
+USB_C_Receptacle_Amphenol_12401610E4-2A
+USB TYPE C, RA RCPT PCB, SMT, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401610E4%7e2A
+USB C Type-C Receptacle SMD
+0
+28
+25
+Connector-USB-new
+USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles
+USB TYPE C, RA RCPT PCB, SMT, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401610E4%7e2A
+USB C Type-C Receptacle SMD
+0
+28
+25
+Connector-USB-new
+USB_C_Receptacle_GCT_USB4085
+USB 2.0 Type C Receptacle, https://gct.co/Files/Drawings/USB4085.pdf
+USB Type-C Receptacle Through-hole Right angle
+0
+20
+17
+Connector-USB-new
+USB_C_Receptacle_JAE_DX07S024WJ1R350
+http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ117219.pdf
+USB C Type-C Receptacle SMD
+0
+30
+25
+Connector-USB-new
+USB_C_Receptacle_JAE_DX07S024WJ3R400
+USB TYPE C, VERT RCPT PCB, SMT, http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ117928.pdf
+USB C Type-C Receptacle SMD
+0
+28
+25
+Connector-USB-new
+USB_Micro-B_Amphenol_10103594-0001LF_Horizontal
+Micro USB Type B 10103594-0001LF, http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103594.pdf
+USB USB_B USB_micro USB_OTG
+0
+17
+6
+Connector-USB-new
+USB_Micro-B_GCT_USB3076-30-A
+GCT Micro USB https://gct.co/files/drawings/usb3076.pdf
+Micro-USB SMD Typ-B GCT
+0
+11
+6
+Connector-USB-new
+USB_Micro-B_Molex-105017-0001
+http://www.molex.com/pdm_docs/sd/1050170001_sd.pdf
+Micro-USB SMD Typ-B
+0
+13
+6
+Connector-USB-new
+USB_Micro-B_Molex-105133-0001
+Molex Vertical Micro USB Typ-B (http://www.molex.com/pdm_docs/sd/1051330001_sd.pdf)
+Micro-USB SMD Typ-B Vertical
+0
+8
+6
+Connector-USB-new
+USB_Micro-B_Molex-105133-0031
+Molex Vertical Micro USB Typ-B (http://www.molex.com/pdm_docs/sd/1051330031_sd.pdf)
+Micro-USB SMD Typ-B Vertical
+0
+8
+6
+Connector-USB-new
+USB_Micro-B_Molex_47346-0001
+Micro USB B receptable with flange, bottom-mount, SMD, right-angle (http://www.molex.com/pdm_docs/sd/473460001_sd.pdf)
+Micro B USB SMD
+0
+11
+6
+Connector-USB-new
+USB_Micro-B_Wuerth_614105150721_Vertical
+USB Micro-B receptacle, through-hole, vertical, http://katalog.we-online.de/em/datasheet/614105150721.pdf
+usb micro receptacle vertical
+0
+7
+6
+Connector-USB-new
+USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles
+USB Micro-B receptacle, through-hole, vertical, http://katalog.we-online.de/em/datasheet/614105150721.pdf
+usb micro receptacle vertical
+0
+7
+6
+Connector-USB-new
+USB_Micro-B_Wuerth_629105150521
+USB Micro-B receptacle, http://www.mouser.com/ds/2/445/629105150521-469306.pdf
+usb micro receptacle
+0
+9
+6
+Connector-USB-new
+USB_Micro-B_Wuerth_629105150521_CircularHoles
+USB Micro-B receptacle, http://www.mouser.com/ds/2/445/629105150521-469306.pdf
+usb micro receptacle
+0
+9
+6
+Connector-USB-new
+USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical
+http://www.adam-tech.com/upload/MUSB-B5-S-VT-TSMT-1.pdf
+USB Mini-B
+0
+7
+6
+Connector-USB-new
+USB_Mini-B_Lumberg_2486_01_Horizontal
+USB Mini-B 5-pin SMD connector, http://downloads.lumberg.com/datenblaetter/en/2486_01.pdf
+USB USB_B USB_Mini connector
+0
+9
+6
+Connector-USB-new
+USB_Mini-B_Tensility_54-00023_Vertical
+http://www.tensility.com/pdffiles/54-00023.pdf
+usb mini receptacle vertical
+0
+7
+6
+Connector-USB-new
+USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles
+http://www.tensility.com/pdffiles/54-00023.pdf
+usb mini receptacle vertical
+0
+7
+6
+Connector_AMASS
+AMASS_MR30PW-FB_1x03_P3.50mm_Horizontal
+Connector XT30 Horizontal PCB Female, https://www.tme.eu/en/Document/5e47640ba39fa492dbd4c0f4c8ae7b93/MR30PW%20SPEC.pdf
+RC Connector XT30
+0
+5
+3
+Connector_AMASS
+AMASS_MR30PW-M_1x03_P3.50mm_Horizontal
+Connector XT30 Horizontal PCB Male, https://www.tme.eu/en/Document/5e47640ba39fa492dbd4c0f4c8ae7b93/MR30PW%20SPEC.pdf
+RC Connector XT30
+0
+5
+3
+Connector_AMASS
+AMASS_XT30PW-F_1x02_P2.50mm_Horizontal
+Connector XT30 Horizontal PCB Female, https://www.tme.eu/en/Document/ce4077e36b79046da520ca73227e15de/XT30PW%20SPEC.pdf
+RC Connector XT30
+0
+4
+2
+Connector_AMASS
+AMASS_XT30PW-M_1x02_P2.50mm_Horizontal
+Connector XT30 Horizontal PCB Male, https://www.tme.eu/en/Document/ce4077e36b79046da520ca73227e15de/XT30PW%20SPEC.pdf
+RC Connector XT30
+0
+4
+2
+Connector_AMASS
+AMASS_XT30U-F_1x02_P5.0mm_Vertical
+Connector XT30 Vertical Cable Female, https://www.tme.eu/en/Document/3cbfa5cfa544d79584972dd5234a409e/XT30U%20SPEC.pdf
+RC Connector XT30
+0
+2
+2
+Connector_AMASS
+AMASS_XT30U-M_1x02_P5.0mm_Vertical
+Connector XT30 Vertical Cable Male, https://www.tme.eu/en/Document/3cbfa5cfa544d79584972dd5234a409e/XT30U%20SPEC.pdf
+RC Connector XT30
+0
+2
+2
+Connector_AMASS
+AMASS_XT30UPB-F_1x02_P5.0mm_Vertical
+Connector XT30 Vertical PCB Female, https://www.tme.eu/en/Document/4acc913878197f8c2e30d4b8cdc47230/XT30UPB%20SPEC.pdf
+RC Connector XT30
+0
+2
+2
+Connector_AMASS
+AMASS_XT30UPB-M_1x02_P5.0mm_Vertical
+Connector XT30 Vertical PCB Male, https://www.tme.eu/en/Document/4acc913878197f8c2e30d4b8cdc47230/XT30UPB%20SPEC.pdf
+RC Connector XT30
+0
+2
+2
 Connector_Audio
 Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal
 3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cui.com/product/resource/sj-352x-smt-series.pdf)
@@ -14226,7 +14569,7 @@ connector Molex Micro-Fit_3.0 top entry
 Connector_Molex
 Molex_Micro-Fit_3.0_43650-0215_1x02_P3.00mm_Vertical
 Molex Micro-Fit 3.0 Connector System, 43650-0215 (compatible alternatives: 43650-0216, 43650-0217), 2 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 side entry
+connector Molex Micro-Fit_3.0 vertical
 0
 2
 2
@@ -14240,7 +14583,7 @@ connector Molex Micro-Fit_3.0 top entry
 Connector_Molex
 Molex_Micro-Fit_3.0_43650-0315_1x03_P3.00mm_Vertical
 Molex Micro-Fit 3.0 Connector System, 43650-0315 (compatible alternatives: 43650-0316, 43650-0317), 3 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 side entry
+connector Molex Micro-Fit_3.0 vertical
 0
 3
 3
@@ -14254,7 +14597,7 @@ connector Molex Micro-Fit_3.0 top entry
 Connector_Molex
 Molex_Micro-Fit_3.0_43650-0415_1x04_P3.00mm_Vertical
 Molex Micro-Fit 3.0 Connector System, 43650-0415 (compatible alternatives: 43650-0416, 43650-0417), 4 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 side entry
+connector Molex Micro-Fit_3.0 vertical
 0
 4
 4
@@ -14268,7 +14611,7 @@ connector Molex Micro-Fit_3.0 top entry
 Connector_Molex
 Molex_Micro-Fit_3.0_43650-0515_1x05_P3.00mm_Vertical
 Molex Micro-Fit 3.0 Connector System, 43650-0515 (compatible alternatives: 43650-0516, 43650-0517), 5 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 side entry
+connector Molex Micro-Fit_3.0 vertical
 0
 5
 5
@@ -14282,7 +14625,7 @@ connector Molex Micro-Fit_3.0 top entry
 Connector_Molex
 Molex_Micro-Fit_3.0_43650-0615_1x06_P3.00mm_Vertical
 Molex Micro-Fit 3.0 Connector System, 43650-0615 (compatible alternatives: 43650-0616, 43650-0617), 6 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 side entry
+connector Molex Micro-Fit_3.0 vertical
 0
 6
 6
@@ -14296,7 +14639,7 @@ connector Molex Micro-Fit_3.0 top entry
 Connector_Molex
 Molex_Micro-Fit_3.0_43650-0715_1x07_P3.00mm_Vertical
 Molex Micro-Fit 3.0 Connector System, 43650-0715 (compatible alternatives: 43650-0716, 43650-0717), 7 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 side entry
+connector Molex Micro-Fit_3.0 vertical
 0
 7
 7
@@ -14310,7 +14653,7 @@ connector Molex Micro-Fit_3.0 top entry
 Connector_Molex
 Molex_Micro-Fit_3.0_43650-0815_1x08_P3.00mm_Vertical
 Molex Micro-Fit 3.0 Connector System, 43650-0815 (compatible alternatives: 43650-0816, 43650-0817), 8 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 side entry
+connector Molex Micro-Fit_3.0 vertical
 0
 8
 8
@@ -14324,7 +14667,7 @@ connector Molex Micro-Fit_3.0 top entry
 Connector_Molex
 Molex_Micro-Fit_3.0_43650-0915_1x09_P3.00mm_Vertical
 Molex Micro-Fit 3.0 Connector System, 43650-0915 (compatible alternatives: 43650-0916, 43650-0917), 9 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 side entry
+connector Molex Micro-Fit_3.0 vertical
 0
 9
 9
@@ -14338,7 +14681,7 @@ connector Molex Micro-Fit_3.0 top entry
 Connector_Molex
 Molex_Micro-Fit_3.0_43650-1015_1x10_P3.00mm_Vertical
 Molex Micro-Fit 3.0 Connector System, 43650-1015 (compatible alternatives: 43650-1016, 43650-1017), 10 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 side entry
+connector Molex Micro-Fit_3.0 vertical
 0
 10
 10
@@ -14352,7 +14695,7 @@ connector Molex Micro-Fit_3.0 top entry
 Connector_Molex
 Molex_Micro-Fit_3.0_43650-1115_1x11_P3.00mm_Vertical
 Molex Micro-Fit 3.0 Connector System, 43650-1115 (compatible alternatives: 43650-1116, 43650-1117), 11 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 side entry
+connector Molex Micro-Fit_3.0 vertical
 0
 11
 11
@@ -14366,7 +14709,7 @@ connector Molex Micro-Fit_3.0 top entry
 Connector_Molex
 Molex_Micro-Fit_3.0_43650-1215_1x12_P3.00mm_Vertical
 Molex Micro-Fit 3.0 Connector System, 43650-1215 (compatible alternatives: 43650-1216, 43650-1217), 12 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 side entry
+connector Molex Micro-Fit_3.0 vertical
 0
 12
 12
@@ -36229,8 +36572,8 @@ RJ45_Wuerth_7499010121A_Horizontal
 10/100Base-TX RJ45 ethernet magnetic transformer connector horizontal https://katalog.we-online.de/pbs/datasheet/7499010121A.pdf
 RJ45 ethernet magnetic
 0
-12
-12
+14
+13
 Connector_RJ
 RJ45_Wuerth_7499151120_Horizontal
 Wuerth 7499151120, LAN-Transformer WE-RJ45LAN 10/100/1000 BaseT, Dual Ethernet Jack (http://katalog.we-online.de/pbs/datasheet/7499151120.pdf)
@@ -39746,6 +40089,13 @@ USB-A
 6
 5
 Connector_USB
+USB_A_Molex_105057_Vertical
+https://www.molex.com/pdm_docs/sd/1050570001_sd.pdf
+USB A Vertical
+0
+7
+5
+Connector_USB
 USB_A_Wuerth_61400826021_Horizontal_Stacked
 Stacked USB A connector http://katalog.we-online.de/em/datasheet/61400826021.pdf
 Wuerth stacked USB_A
@@ -39872,20 +40222,6 @@ Micro B USB SMD
 11
 6
 Connector_USB
-USB_Micro-B_Tensility_54-00023_Vertical
-http://www.tensility.com/pdffiles/54-00023.pdf
-usb mini receptacle vertical
-0
-7
-6
-Connector_USB
-USB_Micro-B_Tensility_54-00023_Vertical_CircularHoles
-http://www.tensility.com/pdffiles/54-00023.pdf
-usb mini receptacle vertical
-0
-7
-6
-Connector_USB
 USB_Micro-B_Wuerth_614105150721_Vertical
 USB Micro-B receptacle, through-hole, vertical, http://katalog.we-online.de/em/datasheet/614105150721.pdf
 usb micro receptacle vertical
@@ -39926,6 +40262,20 @@ USB Mini-B 5-pin SMD connector, http://downloads.lumberg.com/datenblaetter/en/24
 USB USB_B USB_Mini connector
 0
 9
+6
+Connector_USB
+USB_Mini-B_Tensility_54-00023_Vertical
+http://www.tensility.com/pdffiles/54-00023.pdf
+usb mini receptacle vertical
+0
+7
+6
+Connector_USB
+USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles
+http://www.tensility.com/pdffiles/54-00023.pdf
+usb mini receptacle vertical
+0
+7
 6
 Connector_Wago
 Wago_734-132_1x02_P3.50mm_Vertical
@@ -40419,8 +40769,8 @@ ACDC-Converter 3W
 14
 Converter_ACDC
 Converter_ACDC_MeanWell_IRM-03-xx_THT
-ACDC-Converter, 2W, Meanwell, IRM-02, THT, https://www.meanwell.co.uk/media/productPDF/IRM-02-spec.pdf
-ACDC-Converter 2W THT
+ACDC-Converter, 3W, Meanwell, IRM-03, THT, https://www.meanwell.com/Upload/PDF/IRM-03/IRM-03-SPEC.PDF
+ACDC-Converter 3W THT
 0
 5
 5
@@ -43988,6 +44338,13 @@ EOD-EC11-EC12
 7
 4
 EOD-Footprints
+EOD-Logo
+
+
+0
+0
+0
+EOD-Footprints
 GCT USB4110-GF-A
 
 
@@ -44009,12 +44366,40 @@ Kailh-HotSwap-MX
 2
 2
 EOD-Footprints
+KiCad-Logo2_5mm_Copper
+KiCad Logo
+Logo KiCad
+0
+0
+0
+EOD-Footprints
 LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
 https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
 LED RGB NeoPixel
 0
 4
 4
+EOD-Footprints
+M2pad
+
+
+0
+1
+1
+EOD-Footprints
+MX-Cutout-1.00
+
+
+0
+0
+0
+EOD-Footprints
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
 EOD-Footprints
 Tactile-Switch-Sofng
 
@@ -48216,6 +48601,13 @@ Cherry MX keyswitch 2.00u PCB
 2
 2
 keebs
+SW_Cherry_MX_2.00u_PCB_No_Silk
+Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u PCB
+0
+2
+2
+keebs
 SW_Cherry_MX_2.00u_Vertical_PCB
 Cherry MX keyswitch, 2.00u, vertical, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 Cherry MX keyswitch 2.00u vertical PCB
@@ -48265,7 +48657,21 @@ Cherry MX keyswitch 2.75u PCB
 2
 2
 keebs
+SW_Cherry_MX_3.00u_PCB_Flip_Stab
+Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u PCB
+0
+2
+2
+keebs
 SW_Cherry_MX_6.25u_PCB
+Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 6.25u PCB
+0
+2
+2
+keebs
+SW_Cherry_MX_6u_PCB_No_Silk_Flip_Stab
 Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 Cherry MX keyswitch 6.25u PCB
 0
@@ -48334,6 +48740,580 @@ to-92 sc-43 sc-43a sot54 PA33 transistor
 0
 3
 3
+Keybage_MX
+MX_1.5u
+
+
+0
+4
+4
+Keybage_MX
+MX_1.5u_Flipped
+
+
+0
+4
+4
+Keybage_MX
+MX_1.5u_Hotswap
+
+
+0
+2
+2
+Keybage_MX
+MX_1.5u_NoLED
+
+
+0
+2
+2
+Keybage_MX
+MX_1.5u_Vertical
+
+
+0
+4
+4
+Keybage_MX
+MX_1.5u_Vertical_NoLED
+
+
+0
+2
+2
+Keybage_MX
+MX_1.25u
+
+
+0
+4
+4
+Keybage_MX
+MX_1.25u_Flipped
+
+
+0
+4
+4
+Keybage_MX
+MX_1.25u_Hotswap
+
+
+0
+2
+2
+Keybage_MX
+MX_1.25u_NoLED
+
+
+0
+2
+2
+Keybage_MX
+MX_1.75u
+
+
+0
+4
+4
+Keybage_MX
+MX_1.75u_Flipped
+
+
+0
+4
+4
+Keybage_MX
+MX_1.75u_Hotswap
+
+
+0
+2
+2
+Keybage_MX
+MX_1.75u_NoLED
+
+
+0
+2
+2
+Keybage_MX
+MX_1u
+
+
+0
+4
+4
+Keybage_MX
+MX_1u_Flipped
+
+
+0
+4
+4
+Keybage_MX
+MX_1u_Hotswap
+
+
+0
+2
+2
+Keybage_MX
+MX_1u_Hotswap_Antishear
+
+
+0
+10
+2
+Keybage_MX
+MX_1u_NoLED
+
+
+0
+2
+2
+Keybage_MX
+MX_2.25u
+
+
+0
+4
+4
+Keybage_MX
+MX_2.25u_Flipped
+
+
+0
+4
+4
+Keybage_MX
+MX_2.25u_Flipped_ReversedStabilizers
+
+
+0
+4
+4
+Keybage_MX
+MX_2.25u_Hotswap
+
+
+0
+2
+2
+Keybage_MX
+MX_2.25u_Hotswap_ReversedStabilizers
+
+
+0
+2
+2
+Keybage_MX
+MX_2.25u_NoLED
+
+
+0
+2
+2
+Keybage_MX
+MX_2.25u_ReversedStabilizers
+
+
+0
+4
+4
+Keybage_MX
+MX_2.25u_ReversedStabilizers_NoLED
+
+
+0
+2
+2
+Keybage_MX
+MX_2.75u
+
+
+0
+4
+4
+Keybage_MX
+MX_2.75u_Flipped
+
+
+0
+4
+4
+Keybage_MX
+MX_2.75u_Flipped_ReversedStabilizers
+
+
+0
+4
+4
+Keybage_MX
+MX_2.75u_Hotswap
+
+
+0
+2
+2
+Keybage_MX
+MX_2.75u_Hotswap_ReversedStabilizers
+
+
+0
+2
+2
+Keybage_MX
+MX_2.75u_NoLED
+
+
+0
+2
+2
+Keybage_MX
+MX_2.75u_ReversedStabilizers
+
+
+0
+4
+4
+Keybage_MX
+MX_2.75u_ReversedStabilizers_NoLED
+
+
+0
+2
+2
+Keybage_MX
+MX_2u
+
+
+0
+4
+4
+Keybage_MX
+MX_2u_Flipped
+
+
+0
+4
+4
+Keybage_MX
+MX_2u_Flipped_ReversedStabilizers
+
+
+0
+4
+4
+Keybage_MX
+MX_2u_Hotswap
+
+
+0
+2
+2
+Keybage_MX
+MX_2u_Hotswap_ReversedStabilizers
+
+
+0
+2
+2
+Keybage_MX
+MX_2u_NoLED
+
+
+0
+2
+2
+Keybage_MX
+MX_2u_ReversedStabilizers
+
+
+0
+4
+4
+Keybage_MX
+MX_2u_ReversedStabilizers_NoLED
+
+
+0
+2
+2
+Keybage_MX
+MX_3u
+
+
+0
+4
+4
+Keybage_MX
+MX_3u_Flipped
+
+
+0
+4
+4
+Keybage_MX
+MX_3u_Flipped_ReversedStabilizers
+
+
+0
+4
+4
+Keybage_MX
+MX_3u_NoLED
+
+
+0
+2
+2
+Keybage_MX
+MX_3u_ReversedStabilizers
+
+
+0
+4
+4
+Keybage_MX
+MX_3u_ReversedStabilizers_NoLED
+
+
+0
+2
+2
+Keybage_MX
+MX_6.25u
+
+
+0
+4
+4
+Keybage_MX
+MX_6.25u_Flipped
+
+
+0
+4
+4
+Keybage_MX
+MX_6.25u_Flipped_ReversedStabilizers
+
+
+0
+4
+4
+Keybage_MX
+MX_6.25u_Hotswap
+
+
+0
+2
+2
+Keybage_MX
+MX_6.25u_Hotswap_ReversedStabilizers
+
+
+0
+2
+2
+Keybage_MX
+MX_6.25u_NoLED
+
+
+0
+2
+2
+Keybage_MX
+MX_6.25u_ReversedStabilizers
+
+
+0
+4
+4
+Keybage_MX
+MX_6.25u_ReversedStabilizers_NoLED
+
+
+0
+2
+2
+Keybage_MX
+MX_6u
+
+
+0
+4
+4
+Keybage_MX
+MX_6u_Centered
+
+
+0
+4
+4
+Keybage_MX
+MX_6u_Centered_Flipped
+
+
+0
+4
+4
+Keybage_MX
+MX_6u_Centered_Flipped_ReversedStabilizers
+
+
+0
+4
+4
+Keybage_MX
+MX_6u_Centered_NoLED
+
+
+0
+2
+2
+Keybage_MX
+MX_6u_Centered_ReversedStabilizers
+
+
+0
+4
+4
+Keybage_MX
+MX_6u_Centered_ReversedStabilizers_NoLED
+
+
+0
+2
+2
+Keybage_MX
+MX_6u_NoLED
+
+
+0
+2
+2
+Keybage_MX
+MX_6u_ReversedStabilizers
+
+
+0
+4
+4
+Keybage_MX
+MX_6u_ReversedStabilizers_NoLED
+
+
+0
+2
+2
+Keybage_MX
+MX_7u
+
+
+0
+4
+4
+Keybage_MX
+MX_7u_Flipped
+
+
+0
+4
+4
+Keybage_MX
+MX_7u_Flipped_ReversedStabilizers
+
+
+0
+4
+4
+Keybage_MX
+MX_7u_Hotswap
+
+
+0
+2
+2
+Keybage_MX
+MX_7u_Hotswap_ReversedStabilizers
+
+
+0
+2
+2
+Keybage_MX
+MX_7u_NoLED
+
+
+0
+2
+2
+Keybage_MX
+MX_7u_ReversedStabilizers
+
+
+0
+4
+4
+Keybage_MX
+MX_7u_ReversedStabilizers_NoLED
+
+
+0
+2
+2
+Keybage_MX
+MX_ISO
+
+
+0
+4
+4
+Keybage_MX
+MX_ISO_ReversedStabilizers
+
+
+0
+4
+4
+Keybage_MX
+MX_ISO_Rotated
+
+
+0
+4
+4
+Keybage_MX
+MX_ISO_Rotated_ReversedStabilizers
+
+
+0
+4
+4
+Keybage_MX
+MX_ISO_Rotated_ReversedStabilizers_NoLED
+
+
+0
+2
+2
+Keybage_MX
+MX_LEDOnly
+
+
+0
+2
+2
+Keybage_MX
+MX_LEDOnly_Flipped
+
+
+0
+2
+2
 Keybage_MX_Cutout
 MX-Alps_Cutout_1u
 
@@ -48362,6 +49342,13 @@ MX_Cutout_1.5u
 0
 2
 1
+Keybage_MX_Cutout
+MX_Cutout_1.5u_Acoustic
+
+
+0
+6
+2
 Keybage_MX_Cutout
 MX_Cutout_1.25u
 
@@ -48402,7 +49389,7 @@ MX_Cutout_2.25u
 
 
 0
-3
+7
 1
 Keybage_MX_Cutout
 MX_Cutout_2.75u
@@ -48460,6 +49447,55 @@ MX_Cutout_7u_1u-2.25u-2.75u-1u
 0
 22
 1
+Keybage_MX_Cutout
+MX_Cutout_Acoustic_Only
+
+
+0
+2
+1
+Keybage_MX_Cutout
+MX_Cutout_Encoder
+
+
+0
+2
+1
+Keybage_MX_Cutout
+MX_Cutout_Stab
+
+
+0
+2
+1
+Keybage_MX_Cutout
+MX_Cutout_Stepped
+
+
+0
+2
+1
+Keybage_MX_Cutout
+MX_Cutout_SteppedCaps_Acoustic
+
+
+0
+6
+2
+Keybage_MX_Cutout
+yellowringbottom
+
+
+0
+22
+1
+Keybage_MX_Cutout
+yellowringbottom-test
+
+
+0
+10
+0
 keyboard_parts
 4P4C
 http://www.assmann.us/specs/A-2004-3-4-LP-N-R_REV00.pdf
@@ -49505,14 +50541,14 @@ LED PLCC-2 SMD
 2
 LED_SMD
 LED_PLCC_2835
-http://www.everlight.com/file/ProductFile/67-21S-KK2C-H4040QAR32835Z15-2T.pdf
+https://www.luckylight.cn/media/component/data-sheet/R2835BC-B2M-M10.pdf
 LED
 0
 2
 2
 LED_SMD
 LED_PLCC_2835_Handsoldering
-http://www.everlight.com/file/ProductFile/67-21S-KK2C-H4040QAR32835Z15-2T.pdf
+https://www.luckylight.cn/media/component/data-sheet/R2835BC-B2M-M10.pdf
 LED
 0
 2
@@ -50253,6 +51289,13 @@ Omega Onion module
 32
 32
 Module
+Onion_Omega2S
+https://github.com/OnionIoT/Omega2/raw/master/Documents/Omega2S%20Datasheet.pdf
+onion omega module
+0
+89
+64
+Module
 Pololu_Breakout-16_15.2x20.3mm
 Pololu Breakout 16-pin 15.2x20.3mm 0.6x0.8\
 Pololu Breakout
@@ -50952,20 +51995,6 @@ mounting hole 8.4mm m8
 0
 9
 1
-MX-Rotation
-SW_Cherry_MX_1.00u_PCB_No_Silk-CCW
-Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 1.00u PCB
-0
-2
-2
-MX-Rotation
-SW_Cherry_MX_1.00u_PCB_No_Silk-CW
-Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 1.00u PCB
-0
-2
-2
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
@@ -51590,6 +52619,13 @@ SMD SMT crystal oscillator
 4
 4
 Oscillator
+Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm
+Miniature Crystal Clock Oscillator Abracon ASDMB series, 2.5x2.0mm package, http://www.abracon.com/Oscillators/ASDMB.pdf
+SMD SMT crystal oscillator
+0
+4
+4
+Oscillator
 Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm
 Miniature Crystal Clock Oscillator Abracon ASE series, http://www.abracon.com/Oscillators/ASEseries.pdf, 3.2x2.5mm^2 package
 SMD SMT crystal oscillator
@@ -51614,6 +52650,13 @@ Oscillator
 Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm_HandSoldering
 Miniature Crystal Clock Oscillator Abracon ASV series, http://www.abracon.com/Oscillators/ASV.pdf, hand-soldering, 7.0x5.1mm^2 package
 SMD SMT crystal oscillator hand-soldering
+0
+4
+4
+Oscillator
+Oscillator_SMD_Diodes_FN-4Pin_7.0x5.0mm
+FN Series Crystal Clock Oscillator (XO) (https://www.diodes.com/assets/Datasheets/FN_3-3V.pdf)
+Oscillator Crystal SMD SMT
 0
 4
 4
@@ -51904,1651 +52947,13 @@ SMD SMT crystal oscillator hand-soldering
 0
 4
 4
-Package TO-SOT-THT
-Fairchild_TO-220F-6L
-Fairchild TO-220F-6L, http://www.mouser.com/ds/2/149/FSL136MRT-113334.pdf
-Fairchild TO-220F-6L
-0
-6
-6
-Package TO-SOT-THT
-Heraeus_TO-92-2
-TO-92 2-pin variant by Heraeus, drill 0.75mm (http://www.produktinfo.conrad.com/datenblaetter/175000-199999/181293-da-01-de-TO92_Temperatursensor_PT1000_32209225.pdf)
-to-92 
-0
-2
-2
-Package TO-SOT-THT
-NEC_Molded_7x4x9mm
-Molded Japan Transistor Package 7x4x9mm^3, http://rtellason.com/transdata/2sb734.pdf
-Japan transistor
-0
-3
-3
-Package TO-SOT-THT
-PowerIntegrations_TO-220-7C
-Non Isolated Modified TO-220 7pin Package, see http://www.farnell.com/datasheets/5793.pdf
-Power Integration Y Package
-0
-6
-6
-Package TO-SOT-THT
-SIPAK-1EP_Horizontal_TabDown
-SIPAK, Horizontal, RM 2.286mm
-SIPAK Horizontal RM 2.286mm
-0
-4
-4
-Package TO-SOT-THT
-SIPAK_Vertical
-SIPAK, Vertical, RM 2.286mm
-SIPAK Vertical RM 2.286mm
-0
-3
-3
-Package TO-SOT-THT
-SOD-70_P2.54mm
-Plastic near cylindrical package Sod-70 see: https://www.nxp.com/docs/en/data-sheet/KTY81_SER.pdf  [StepUp generated footprint]
-Sod-70
-0
-2
-2
-Package TO-SOT-THT
-SOD-70_P5.08mm
-Plastic near cylindrical package Sod-70 see: https://www.nxp.com/docs/en/data-sheet/KTY81_SER.pdf  [StepUp generated footprint]
-Sod-70
-0
-2
-2
-Package TO-SOT-THT
-SOT-227
-SOT-227 / SOT-227B / ISOTOP, M4 mounting screws (https://www.vishay.com/docs/95423/sot227g2.pdf, https://www.vishay.com/docs/95793/vs-fc420sa10.pdf)
-sot 227 isotop
-0
-8
-4
-Package TO-SOT-THT
-TO-3
-Transistor TO-3
-TR TO-3 TO3 TO-204
-0
-4
-3
-Package TO-SOT-THT
-TO-3P-3_Horizontal_TabDown
-TO-3P-3, Horizontal, RM 5.45mm, , see https://toshiba.semicon-storage.com/ap-en/design-support/package/detail.TO-3P(N).html
-TO-3P-3 Horizontal RM 5.45mm 
-0
-3
-3
-Package TO-SOT-THT
-TO-3P-3_Horizontal_TabUp
-TO-3P-3, Horizontal, RM 5.45mm, , see https://toshiba.semicon-storage.com/ap-en/design-support/package/detail.TO-3P(N).html
-TO-3P-3 Horizontal RM 5.45mm 
-0
-3
-3
-Package TO-SOT-THT
-TO-3P-3_Vertical
-TO-3P-3, Vertical, RM 5.45mm, , see https://toshiba.semicon-storage.com/ap-en/design-support/package/detail.TO-3P(N).html
-TO-3P-3 Vertical RM 5.45mm 
-0
-3
-3
-Package TO-SOT-THT
-TO-3PB-3_Horizontal_TabDown
-TO-3PB-3, Horizontal, RM 5.45mm, , see http://www.onsemi.com/pub/Collateral/340AC.PDF
-TO-3PB-3 Horizontal RM 5.45mm 
-0
-3
-3
-Package TO-SOT-THT
-TO-3PB-3_Horizontal_TabUp
-TO-3PB-3, Horizontal, RM 5.45mm, , see http://www.onsemi.com/pub/Collateral/340AC.PDF
-TO-3PB-3 Horizontal RM 5.45mm 
-0
-3
-3
-Package TO-SOT-THT
-TO-3PB-3_Vertical
-TO-3PB-3, Vertical, RM 5.45mm, , see http://www.onsemi.com/pub/Collateral/340AC.PDF
-TO-3PB-3 Vertical RM 5.45mm 
-0
-3
-3
-Package TO-SOT-THT
-TO-5-2
-TO-5-2
-TO-5-2
-0
-2
-2
-Package TO-SOT-THT
-TO-5-2_Window
-TO-5-2_Window, Window
-TO-5-2_Window Window
-0
-2
-2
-Package TO-SOT-THT
-TO-5-3
-TO-5-3
-TO-5-3
-0
-3
-3
-Package TO-SOT-THT
-TO-5-3_Window
-TO-5-3_Window, Window
-TO-5-3_Window Window
-0
-3
-3
-Package TO-SOT-THT
-TO-5-4
-TO-5-4
-TO-5-4
-0
-4
-4
-Package TO-SOT-THT
-TO-5-4_Window
-TO-5-4_Window, Window
-TO-5-4_Window Window
-0
-4
-4
-Package TO-SOT-THT
-TO-5-6
-TO-5-6
-TO-5-6
-0
-6
-6
-Package TO-SOT-THT
-TO-5-6_Window
-TO-5-6_Window, Window
-TO-5-6_Window Window
-0
-6
-6
-Package TO-SOT-THT
-TO-5-8
-TO-5-8
-TO-5-8
-0
-8
-8
-Package TO-SOT-THT
-TO-5-8_PD5.08
-TO-5-8_PD5.08
-TO-5-8_PD5.08
-0
-8
-8
-Package TO-SOT-THT
-TO-5-8_PD5.08_Window
-TO-5-8_PD5.08_Window, Window
-TO-5-8_PD5.08_Window Window
-0
-8
-8
-Package TO-SOT-THT
-TO-5-8_Window
-TO-5-8_Window, Window
-TO-5-8_Window Window
-0
-8
-8
-Package TO-SOT-THT
-TO-5-10
-TO-5-10
-TO-5-10
-0
-10
-10
-Package TO-SOT-THT
-TO-5-10_Window
-TO-5-10_Window, Window
-TO-5-10_Window Window
-0
-10
-10
-Package TO-SOT-THT
-TO-8-2
-TO-8-2
-TO-8-2
-0
-2
-2
-Package TO-SOT-THT
-TO-8-2_Window
-TO-8-2_Window, Window
-TO-8-2_Window Window
-0
-2
-2
-Package TO-SOT-THT
-TO-8-3
-TO-8-3
-TO-8-3
-0
-3
-3
-Package TO-SOT-THT
-TO-8-3_Window
-TO-8-3_Window, Window
-TO-8-3_Window Window
-0
-3
-3
-Package TO-SOT-THT
-TO-11-2
-TO-11-2
-TO-11-2
-0
-2
-2
-Package TO-SOT-THT
-TO-11-2_Window
-TO-11-2_Window, Window
-TO-11-2_Window Window
-0
-2
-2
-Package TO-SOT-THT
-TO-11-3
-TO-11-3
-TO-11-3
-0
-3
-3
-Package TO-SOT-THT
-TO-11-3_Window
-TO-11-3_Window, Window
-TO-11-3_Window Window
-0
-3
-3
-Package TO-SOT-THT
-TO-12-4
-TO-12-4
-TO-12-4
-0
-4
-4
-Package TO-SOT-THT
-TO-12-4_Window
-TO-12-4_Window, Window
-TO-12-4_Window Window
-0
-4
-4
-Package TO-SOT-THT
-TO-17-4
-TO-17-4
-TO-17-4
-0
-4
-4
-Package TO-SOT-THT
-TO-17-4_Window
-TO-17-4_Window, Window
-TO-17-4_Window Window
-0
-4
-4
-Package TO-SOT-THT
-TO-18-2
-TO-18-2
-TO-18-2
-0
-2
-2
-Package TO-SOT-THT
-TO-18-2_Lens
-TO-18-2_Lens, Lens
-TO-18-2_Lens Lens
-0
-2
-2
-Package TO-SOT-THT
-TO-18-2_Window
-TO-18-2_Window, Window
-TO-18-2_Window Window
-0
-2
-2
-Package TO-SOT-THT
-TO-18-3
-TO-18-3
-TO-18-3
-0
-3
-3
-Package TO-SOT-THT
-TO-18-3_Lens
-TO-18-3_Lens, Lens
-TO-18-3_Lens Lens
-0
-3
-3
-Package TO-SOT-THT
-TO-18-3_Window
-TO-18-3_Window, Window
-TO-18-3_Window Window
-0
-3
-3
-Package TO-SOT-THT
-TO-18-4
-TO-18-4
-TO-18-4
-0
-4
-4
-Package TO-SOT-THT
-TO-18-4_Lens
-TO-18-4_Lens, Lens
-TO-18-4_Lens Lens
-0
-4
-4
-Package TO-SOT-THT
-TO-18-4_Window
-TO-18-4_Window, Window
-TO-18-4_Window Window
-0
-4
-4
-Package TO-SOT-THT
-TO-33-4
-TO-33-4
-TO-33-4
-0
-4
-4
-Package TO-SOT-THT
-TO-33-4_Window
-TO-33-4_Window, Window
-TO-33-4_Window Window
-0
-4
-4
-Package TO-SOT-THT
-TO-38-2
-TO-38-2
-TO-38-2
-0
-2
-2
-Package TO-SOT-THT
-TO-38-2_Window
-TO-38-2_Window, Window
-TO-38-2_Window Window
-0
-2
-2
-Package TO-SOT-THT
-TO-38-3
-TO-38-3
-TO-38-3
-0
-3
-3
-Package TO-SOT-THT
-TO-38-3_Window
-TO-38-3_Window, Window
-TO-38-3_Window Window
-0
-3
-3
-Package TO-SOT-THT
-TO-39-2
-TO-39-2
-TO-39-2
-0
-2
-2
-Package TO-SOT-THT
-TO-39-2_Window
-TO-39-2_Window, Window
-TO-39-2_Window Window
-0
-2
-2
-Package TO-SOT-THT
-TO-39-3
-TO-39-3
-TO-39-3
-0
-3
-3
-Package TO-SOT-THT
-TO-39-3_Window
-TO-39-3_Window, Window
-TO-39-3_Window Window
-0
-3
-3
-Package TO-SOT-THT
-TO-39-4
-TO-39-4
-TO-39-4
-0
-4
-4
-Package TO-SOT-THT
-TO-39-4_Window
-TO-39-4_Window, Window
-TO-39-4_Window Window
-0
-4
-4
-Package TO-SOT-THT
-TO-39-6
-TO-39-6
-TO-39-6
-0
-6
-6
-Package TO-SOT-THT
-TO-39-6_Window
-TO-39-6_Window, Window
-TO-39-6_Window Window
-0
-6
-6
-Package TO-SOT-THT
-TO-39-8
-TO-39-8
-TO-39-8
-0
-8
-8
-Package TO-SOT-THT
-TO-39-8_Window
-TO-39-8_Window, Window
-TO-39-8_Window Window
-0
-8
-8
-Package TO-SOT-THT
-TO-39-10
-TO-39-10
-TO-39-10
-0
-10
-10
-Package TO-SOT-THT
-TO-39-10_Window
-TO-39-10_Window, Window
-TO-39-10_Window Window
-0
-10
-10
-Package TO-SOT-THT
-TO-46-2
-TO-46-2
-TO-46-2
-0
-2
-2
-Package TO-SOT-THT
-TO-46-2_Pin2Center
-TO-46-2, Pin2 at center of package, Thorlabs photodiodes
-TO-46-2 Thorlabs
-0
-2
-2
-Package TO-SOT-THT
-TO-46-2_Pin2Center_Window
-TO-46-2, Pin2 at center of package, Thorlabs photodiodes
-TO-46-2 Thorlabs
-0
-2
-2
-Package TO-SOT-THT
-TO-46-2_Window
-TO-46-2_Window, Window
-TO-46-2_Window Window
-0
-2
-2
-Package TO-SOT-THT
-TO-46-3
-TO-46-3
-TO-46-3
-0
-3
-3
-Package TO-SOT-THT
-TO-46-3_Pin2Center
-TO-46-3, Pin2 at center of package, Thorlabs photodiodes, https://www.thorlabs.de/drawings/374b6862eb3b5a04-9360B5F6-5056-2306-D912111C06C3F830/FDGA05-SpecSheet.pdf
-TO-46-3 Thorlabs
-0
-3
-3
-Package TO-SOT-THT
-TO-46-3_Pin2Center_Window
-TO-46-3, Pin2 at center of package, Thorlabs photodiodes, https://www.thorlabs.de/drawings/374b6862eb3b5a04-9360B5F6-5056-2306-D912111C06C3F830/FDGA05-SpecSheet.pdf
-TO-46-3 Thorlabs
-0
-3
-3
-Package TO-SOT-THT
-TO-46-3_Window
-TO-46-3_Window, Window
-TO-46-3_Window Window
-0
-3
-3
-Package TO-SOT-THT
-TO-46-4
-TO-46-4
-TO-46-4
-0
-4
-4
-Package TO-SOT-THT
-TO-46-4_Window
-TO-46-4_Window, Window
-TO-46-4_Window Window
-0
-4
-4
-Package TO-SOT-THT
-TO-52-2
-TO-52-2
-TO-52-2
-0
-2
-2
-Package TO-SOT-THT
-TO-52-2_Window
-TO-52-2_Window, Window
-TO-52-2_Window Window
-0
-2
-2
-Package TO-SOT-THT
-TO-52-3
-TO-52-3
-TO-52-3
-0
-3
-3
-Package TO-SOT-THT
-TO-52-3_Window
-TO-52-3_Window, Window
-TO-52-3_Window Window
-0
-3
-3
-Package TO-SOT-THT
-TO-72-4
-TO-72-4
-TO-72-4
-0
-4
-4
-Package TO-SOT-THT
-TO-72-4_Window
-TO-72-4_Window, Window
-TO-72-4_Window Window
-0
-4
-4
-Package TO-SOT-THT
-TO-75-6
-TO-75-6
-TO-75-6
-0
-6
-6
-Package TO-SOT-THT
-TO-75-6_Window
-TO-75-6_Window, Window
-TO-75-6_Window Window
-0
-6
-6
-Package TO-SOT-THT
-TO-78-6
-TO-78-6
-TO-78-6
-0
-6
-6
-Package TO-SOT-THT
-TO-78-6_Window
-TO-78-6_Window, Window
-TO-78-6_Window Window
-0
-6
-6
-Package TO-SOT-THT
-TO-78-8
-TO-78-8
-TO-78-8
-0
-8
-8
-Package TO-SOT-THT
-TO-78-8_Window
-TO-78-8_Window, Window
-TO-78-8_Window Window
-0
-8
-8
-Package TO-SOT-THT
-TO-78-10
-TO-78-10
-TO-78-10
-0
-10
-10
-Package TO-SOT-THT
-TO-78-10_Window
-TO-78-10_Window, Window
-TO-78-10_Window Window
-0
-10
-10
-Package TO-SOT-THT
-TO-92
-TO-92 leads molded, narrow, drill 0.75mm (see NXP sot054_po.pdf)
-to-92 sc-43 sc-43a sot54 PA33 transistor
-0
-3
-3
-Package TO-SOT-THT
-TO-92-2
-TO-92 2-pin leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
-to-92 sc-43 sc-43a sot54 PA33 diode SOD70
-0
-2
-2
-Package TO-SOT-THT
-TO-92-2_Horizontal1
-2-pin TO-92 horizontal, leads molded, narrow, drill 0.75mm (see NXP sot054_po.pdf)
-to-92 sc-43 sc-43a sot54 PA33 temperature sensor diode
-0
-2
-2
-Package TO-SOT-THT
-TO-92-2_Horizontal2
-2-pin TO-92 horizontal, leads molded, narrow, drill 0.75mm (see NXP sot054_po.pdf)
-to-92 sc-43 sc-43a sot54 PA33 temperature sensor diode
-0
-2
-2
-Package TO-SOT-THT
-TO-92-2_W4.0mm_Horizontal_FlatSideDown
-TO-92 horizontal, leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
-to-92 sc-43 sc-43a sot54 PA33 transistor
-0
-2
-2
-Package TO-SOT-THT
-TO-92-2_W4.0mm_Horizontal_FlatSideUp
-TO-92 horizontal, leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
-to-92 sc-43 sc-43a sot54 PA33 transistor
-0
-2
-2
-Package TO-SOT-THT
-TO-92-2_Wide
-TO-92 2-pin leads in-line, wide, drill 0.75mm
-to-92 sc-43 sc-43a sot54 PA33 diode SOD70
-0
-2
-2
-Package TO-SOT-THT
-TO-92Flat
-TO-92Flat package, often used for hall sensors, drill 0.75mm (see e.g. http://www.ti.com/lit/ds/symlink/drv5023.pdf)
-to-92Flat hall sensor
-0
-3
-3
-Package TO-SOT-THT
-TO-92L
-TO-92L leads in-line (large body variant of TO-92), also known as TO-226, wide, drill 0.75mm (see https://www.diodes.com/assets/Package-Files/TO92L.pdf and http://www.ti.com/lit/an/snoa059/snoa059.pdf)
-TO-92L Molded Narrow transistor
-0
-3
-3
-Package TO-SOT-THT
-TO-92L_HandSolder
-TO-92L leads in-line (large body variant of TO-92), also known as TO-226, wide, drill 0.75mm, hand-soldering variant with enlarged pads (see https://www.diodes.com/assets/Package-Files/TO92L.pdf and http://www.ti.com/lit/an/snoa059/snoa059.pdf)
-to-92 sc-43 sc-43a sot54 PA33 transistor
-0
-3
-3
-Package TO-SOT-THT
-TO-92L_Inline
-TO-92L leads in-line (large body variant of TO-92), also known as TO-226, wide, drill 0.75mm (see https://www.diodes.com/assets/Package-Files/TO92L.pdf and http://www.ti.com/lit/an/snoa059/snoa059.pdf)
-TO-92L Inline Wide transistor
-0
-3
-3
-Package TO-SOT-THT
-TO-92L_Inline_Wide
-TO-92L leads in-line (large body variant of TO-92), also known as TO-226, wide, drill 0.75mm (see https://www.diodes.com/assets/Package-Files/TO92L.pdf and http://www.ti.com/lit/an/snoa059/snoa059.pdf)
-TO-92L Inline Wide transistor
-0
-3
-3
-Package TO-SOT-THT
-TO-92L_Wide
-TO-92L leads in-line (large body variant of TO-92), also known as TO-226, wide, drill 0.75mm (see https://www.diodes.com/assets/Package-Files/TO92L.pdf and http://www.ti.com/lit/an/snoa059/snoa059.pdf)
-TO-92L Molded Wide transistor
-0
-3
-3
-Package TO-SOT-THT
-TO-92Mini-2
-TO-92Mini package, drill 0.6mm (https://media.digikey.com/pdf/Data%20Sheets/Infineon%20PDFs/KT,KTY.pdf)
-to-92Mini transistor 
-0
-2
-2
-Package TO-SOT-THT
-TO-92S
-TO-92S package, drill 0.75mm (https://www.diodes.com/assets/Package-Files/TO92S%20(Type%20B).pdf)
-to-92S transistor
-0
-3
-3
-Package TO-SOT-THT
-TO-92S-2
-TO-92S package, 2-pin, drill 0.75mm (https://www.diodes.com/assets/Package-Files/TO92S%20(Type%20B).pdf)
-to-92S transistor
-0
-2
-2
-Package TO-SOT-THT
-TO-92S_Wide
-TO-92S_Wide package, drill 0.75mm (https://www.diodes.com/assets/Package-Files/TO92S%20(Type%20B).pdf)
-TO-92S_Wide transistor
-0
-3
-3
-Package TO-SOT-THT
-TO-92_HandSolder
-TO-92 leads molded, narrow, drill 0.75mm, handsoldering variant with enlarged pads (see NXP sot054_po.pdf)
-to-92 sc-43 sc-43a sot54 PA33 transistor
-0
-3
-3
-Package TO-SOT-THT
-TO-92_Horizontal1
-TO-92 horizontal, leads molded, narrow, drill 0.75mm (see NXP sot054_po.pdf)
-to-92 sc-43 sc-43a sot54 PA33 transistor
-0
-3
-3
-Package TO-SOT-THT
-TO-92_Horizontal2
-TO-92 horizontal, leads molded, narrow, drill 0.75mm (see NXP sot054_po.pdf)
-to-92 sc-43 sc-43a sot54 PA33 transistor
-0
-3
-3
-Package TO-SOT-THT
-TO-92_Inline
-TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
-to-92 sc-43 sc-43a sot54 PA33 transistor
-0
-3
-3
-Package TO-SOT-THT
-TO-92_Inline_Horizontal1
-TO-92 horizontal, leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
-to-92 sc-43 sc-43a sot54 PA33 transistor
-0
-3
-3
-Package TO-SOT-THT
-TO-92_Inline_Horizontal2
-TO-92 horizontal, leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
-to-92 sc-43 sc-43a sot54 PA33 transistor
-0
-3
-3
-Package TO-SOT-THT
-TO-92_Inline_W4.0mm_Horizontal_FlatSideDown
-TO-92 horizontal, leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
-to-92 sc-43 sc-43a sot54 PA33 transistor
-0
-3
-3
-Package TO-SOT-THT
-TO-92_Inline_W4.0mm_Horizontal_FlatSideUp
-TO-92 horizontal, leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
-to-92 sc-43 sc-43a sot54 PA33 transistor
-0
-3
-3
-Package TO-SOT-THT
-TO-92_Inline_Wide
-TO-92 leads in-line, wide, drill 0.75mm (see NXP sot054_po.pdf)
-to-92 sc-43 sc-43a sot54 PA33 transistor
-0
-3
-3
-Package TO-SOT-THT
-TO-92_W4.0mm_StaggerEven_Horizontal_FlatSideDown
-TO-92 horizontal, leads molded, narrow, drill 0.75mm (see NXP sot054_po.pdf)
-to-92 sc-43 sc-43a sot54 PA33 transistor
-0
-3
-3
-Package TO-SOT-THT
-TO-92_W4.0mm_StaggerEven_Horizontal_FlatSideUp
-TO-92 horizontal, leads molded, narrow, drill 0.75mm (see NXP sot054_po.pdf)
-to-92 sc-43 sc-43a sot54 PA33 transistor
-0
-3
-3
-Package TO-SOT-THT
-TO-92_Wide
-TO-92 leads molded, wide, drill 0.75mm (see NXP sot054_po.pdf)
-to-92 sc-43 sc-43a sot54 PA33 transistor
-0
-3
-3
-Package TO-SOT-THT
-TO-99-6
-TO-99-6
-TO-99-6
-0
-6
-6
-Package TO-SOT-THT
-TO-99-6_Window
-TO-99-6_Window, Window
-TO-99-6_Window Window
-0
-6
-6
-Package TO-SOT-THT
-TO-99-8
-TO-99-8
-TO-99-8
-0
-8
-8
-Package TO-SOT-THT
-TO-99-8_Window
-TO-99-8_Window, Window
-TO-99-8_Window Window
-0
-8
-8
-Package TO-SOT-THT
-TO-100-10
-TO-100-10
-TO-100-10
-0
-10
-10
-Package TO-SOT-THT
-TO-100-10_Window
-TO-100-10_Window, Window
-TO-100-10_Window Window
-0
-10
-10
-Package TO-SOT-THT
-TO-126-2_Horizontal_TabDown
-TO-126-2, Horizontal, RM 5.08mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
-TO-126-2 Horizontal RM 5.08mm
-0
-2
-2
-Package TO-SOT-THT
-TO-126-2_Horizontal_TabUp
-TO-126-2, Horizontal, RM 5.08mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
-TO-126-2 Horizontal RM 5.08mm
-0
-2
-2
-Package TO-SOT-THT
-TO-126-2_Vertical
-TO-126-2, Vertical, RM 5.08mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
-TO-126-2 Vertical RM 5.08mm
-0
-2
-2
-Package TO-SOT-THT
-TO-126-3_Horizontal_TabDown
-TO-126-3, Horizontal, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
-TO-126-3 Horizontal RM 2.54mm
-0
-3
-3
-Package TO-SOT-THT
-TO-126-3_Horizontal_TabUp
-TO-126-3, Horizontal, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
-TO-126-3 Horizontal RM 2.54mm
-0
-3
-3
-Package TO-SOT-THT
-TO-126-3_Vertical
-TO-126-3, Vertical, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
-TO-126-3 Vertical RM 2.54mm
-0
-3
-3
-Package TO-SOT-THT
-TO-218-2_Horizontal_TabDown
-TO-218-2, Horizontal, RM 10.95mm, SOT-93, see https://www.vishay.com/docs/95214/fto218.pdf
-TO-218-2 Horizontal RM 10.95mm SOT-93
-0
-2
-2
-Package TO-SOT-THT
-TO-218-2_Horizontal_TabUp
-TO-218-2, Horizontal, RM 10.95mm, SOT-93, see https://www.vishay.com/docs/95214/fto218.pdf
-TO-218-2 Horizontal RM 10.95mm SOT-93
-0
-2
-2
-Package TO-SOT-THT
-TO-218-2_Vertical
-TO-218-2, Vertical, RM 10.95mm, SOT-93, see https://www.vishay.com/docs/95214/fto218.pdf
-TO-218-2 Vertical RM 10.95mm SOT-93
-0
-2
-2
-Package TO-SOT-THT
-TO-218-3_Horizontal_TabDown
-TO-218-3, Horizontal, RM 5.475mm, SOT-93, see https://www.vishay.com/docs/95214/fto218.pdf
-TO-218-3 Horizontal RM 5.475mm SOT-93
-0
-3
-3
-Package TO-SOT-THT
-TO-218-3_Horizontal_TabUp
-TO-218-3, Horizontal, RM 5.475mm, SOT-93, see https://www.vishay.com/docs/95214/fto218.pdf
-TO-218-3 Horizontal RM 5.475mm SOT-93
-0
-3
-3
-Package TO-SOT-THT
-TO-218-3_Vertical
-TO-218-3, Vertical, RM 5.475mm, SOT-93, see https://www.vishay.com/docs/95214/fto218.pdf
-TO-218-3 Vertical RM 5.475mm SOT-93
-0
-3
-3
-Package TO-SOT-THT
-TO-220-2_Horizontal_TabDown
-TO-220-2, Horizontal, RM 5.08mm, see https://www.centralsemi.com/PDFS/CASE/TO-220-2PD.PDF
-TO-220-2 Horizontal RM 5.08mm
-0
-2
-2
-Package TO-SOT-THT
-TO-220-2_Horizontal_TabUp
-TO-220-2, Horizontal, RM 5.08mm, see https://www.centralsemi.com/PDFS/CASE/TO-220-2PD.PDF
-TO-220-2 Horizontal RM 5.08mm
-0
-2
-2
-Package TO-SOT-THT
-TO-220-2_Vertical
-TO-220-2, Vertical, RM 5.08mm, see https://www.centralsemi.com/PDFS/CASE/TO-220-2PD.PDF
-TO-220-2 Vertical RM 5.08mm
-0
-2
-2
-Package TO-SOT-THT
-TO-220-3_Horizontal_TabDown
-TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
-TO-220-3 Horizontal RM 2.54mm
-0
-3
-3
-Package TO-SOT-THT
-TO-220-3_Horizontal_TabUp
-TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
-TO-220-3 Horizontal RM 2.54mm
-0
-3
-3
-Package TO-SOT-THT
-TO-220-3_Vertical
-TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
-TO-220-3 Vertical RM 2.54mm
-0
-3
-3
-Package TO-SOT-THT
-TO-220-4_Horizontal_TabDown
-TO-220-4, Horizontal, RM 2.54mm
-TO-220-4 Horizontal RM 2.54mm
-0
-4
-4
-Package TO-SOT-THT
-TO-220-4_Horizontal_TabUp
-TO-220-4, Horizontal, RM 2.54mm
-TO-220-4 Horizontal RM 2.54mm
-0
-4
-4
-Package TO-SOT-THT
-TO-220-4_P5.08x2.54mm_StaggerEven_Lead3.8mm_Vertical
-TO-220-4, Vertical, RM 2.54mm, staggered type-2
-TO-220-4 Vertical RM 2.54mm staggered type-2
-0
-4
-4
-Package TO-SOT-THT
-TO-220-4_P5.08x2.54mm_StaggerEven_Lead5.84mm_TabDown
-TO-220-4, Horizontal, RM 2.54mm, staggered type-2
-TO-220-4 Horizontal RM 2.54mm staggered type-2
-0
-4
-4
-Package TO-SOT-THT
-TO-220-4_P5.08x2.54mm_StaggerOdd_Lead3.8mm_Vertical
-TO-220-4, Vertical, RM 2.54mm, staggered type-1
-TO-220-4 Vertical RM 2.54mm staggered type-1
-0
-4
-4
-Package TO-SOT-THT
-TO-220-4_P5.08x2.54mm_StaggerOdd_Lead5.84mm_TabDown
-TO-220-4, Horizontal, RM 2.54mm, staggered type-1
-TO-220-4 Horizontal RM 2.54mm staggered type-1
-0
-4
-4
-Package TO-SOT-THT
-TO-220-4_Vertical
-TO-220-4, Vertical, RM 2.54mm
-TO-220-4 Vertical RM 2.54mm
-0
-4
-4
-Package TO-SOT-THT
-TO-220-5_Horizontal_TabDown
-TO-220-5, Horizontal, RM 1.7mm, Pentawatt, Multiwatt-5, see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421_straight_lead.pdf
-TO-220-5 Horizontal RM 1.7mm Pentawatt Multiwatt-5
-0
-5
-5
-Package TO-SOT-THT
-TO-220-5_Horizontal_TabUp
-TO-220-5, Horizontal, RM 1.7mm, Pentawatt, Multiwatt-5, see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421_straight_lead.pdf
-TO-220-5 Horizontal RM 1.7mm Pentawatt Multiwatt-5
-0
-5
-5
-Package TO-SOT-THT
-TO-220-5_P3.4x3.7mm_StaggerEven_Lead3.8mm_Vertical
-TO-220-5, Vertical, RM 1.7mm, Pentawatt, Multiwatt-5, staggered type-2, see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421.pdf?domain=www.linear.com, https://www.diodes.com/assets/Package-Files/TO220-5.pdf
-TO-220-5 Vertical RM 1.7mm Pentawatt Multiwatt-5 staggered type-2
-0
-5
-5
-Package TO-SOT-THT
-TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical
-TO-220-5, Vertical, RM 1.7mm, Pentawatt, Multiwatt-5, staggered type-1, see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421.pdf?domain=www.linear.com, https://www.diodes.com/assets/Package-Files/TO220-5.pdf
-TO-220-5 Vertical RM 1.7mm Pentawatt Multiwatt-5 staggered type-1
-0
-5
-5
-Package TO-SOT-THT
-TO-220-5_P3.4x3.8mm_StaggerEven_Lead7.13mm_TabDown
-TO-220-5, Horizontal, RM 1.7mm, Pentawatt, Multiwatt-5, staggered type-2, see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421.pdf?domain=www.linear.com, https://www.diodes.com/assets/Package-Files/TO220-5.pdf
-TO-220-5 Horizontal RM 1.7mm Pentawatt Multiwatt-5 staggered type-2
-0
-5
-5
-Package TO-SOT-THT
-TO-220-5_P3.4x3.8mm_StaggerOdd_Lead7.13mm_TabDown
-TO-220-5, Horizontal, RM 1.7mm, Pentawatt, Multiwatt-5, staggered type-1, see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421.pdf?domain=www.linear.com, https://www.diodes.com/assets/Package-Files/TO220-5.pdf
-TO-220-5 Horizontal RM 1.7mm Pentawatt Multiwatt-5 staggered type-1
-0
-5
-5
-Package TO-SOT-THT
-TO-220-5_Vertical
-TO-220-5, Vertical, RM 1.7mm, Pentawatt, Multiwatt-5, see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421_straight_lead.pdf
-TO-220-5 Vertical RM 1.7mm Pentawatt Multiwatt-5
-0
-5
-5
-Package TO-SOT-THT
-TO-220-7_P2.54x3.7mm_StaggerEven_Lead3.8mm_Vertical
-TO-220-7, Vertical, RM 1.27mm, Multiwatt-7, staggered type-2
-TO-220-7 Vertical RM 1.27mm Multiwatt-7 staggered type-2
-0
-7
-7
-Package TO-SOT-THT
-TO-220-7_P2.54x3.7mm_StaggerOdd_Lead3.8mm_Vertical
-TO-220-7, Vertical, RM 1.27mm, Multiwatt-7, staggered type-1
-TO-220-7 Vertical RM 1.27mm Multiwatt-7 staggered type-1
-0
-7
-7
-Package TO-SOT-THT
-TO-220-7_P2.54x3.8mm_StaggerEven_Lead5.85mm_TabDown
-TO-220-7, Horizontal, RM 1.27mm, Multiwatt-7, staggered type-2
-TO-220-7 Horizontal RM 1.27mm Multiwatt-7 staggered type-2
-0
-7
-7
-Package TO-SOT-THT
-TO-220-7_P2.54x3.8mm_StaggerOdd_Lead5.85mm_TabDown
-TO-220-7, Horizontal, RM 1.27mm, Multiwatt-7, staggered type-1
-TO-220-7 Horizontal RM 1.27mm Multiwatt-7 staggered type-1
-0
-7
-7
-Package TO-SOT-THT
-TO-220-8_Vertical
-TO-220-8 (Multiwatt8), Vertical, 2.54mm Pitch (http://www.st.com/resource/en/datasheet/tda7264.pdf)
-TO-220-9 Vertical 2.54mm Pitch Multiwatt 8
-0
-8
-8
-Package TO-SOT-THT
-TO-220-9_P1.94x3.7mm_StaggerEven_Lead3.8mm_Vertical
-TO-220-9, Vertical, RM 0.97mm, Multiwatt-9, staggered type-2
-TO-220-9 Vertical RM 0.97mm Multiwatt-9 staggered type-2
-0
-9
-9
-Package TO-SOT-THT
-TO-220-9_P1.94x3.7mm_StaggerOdd_Lead3.8mm_Vertical
-TO-220-9, Vertical, RM 0.97mm, Multiwatt-9, staggered type-1
-TO-220-9 Vertical RM 0.97mm Multiwatt-9 staggered type-1
-0
-9
-9
-Package TO-SOT-THT
-TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown
-TO-220-9, Horizontal, RM 0.97mm, Multiwatt-9, staggered type-2
-TO-220-9 Horizontal RM 0.97mm Multiwatt-9 staggered type-2
-0
-9
-9
-Package TO-SOT-THT
-TO-220-9_P1.94x3.8mm_StaggerOdd_Lead5.85mm_TabDown
-TO-220-9, Horizontal, RM 0.97mm, Multiwatt-9, staggered type-1
-TO-220-9 Horizontal RM 0.97mm Multiwatt-9 staggered type-1
-0
-9
-9
-Package TO-SOT-THT
-TO-220-11_P3.4x2.54mm_StaggerEven_Lead5.84mm_TabDown
-TO-220-11, Horizontal, RM 1.7mm, staggered type-2, see http://www.st.com/resource/en/datasheet/tda7391lv.pdf
-TO-220-11 Horizontal RM 1.7mm staggered type-2
-0
-11
-11
-Package TO-SOT-THT
-TO-220-11_P3.4x2.54mm_StaggerOdd_Lead5.84mm_TabDown
-TO-220-11, Horizontal, RM 1.7mm, staggered type-1, see http://www.st.com/resource/en/datasheet/tda7391lv.pdf
-TO-220-11 Horizontal RM 1.7mm staggered type-1
-0
-11
-11
-Package TO-SOT-THT
-TO-220-11_P3.4x5.08mm_StaggerEven_Lead4.58mm_Vertical
-TO-220-11, Vertical, RM 1.7mm, staggered type-2, see http://www.st.com/resource/en/datasheet/tda7391lv.pdf
-TO-220-11 Vertical RM 1.7mm staggered type-2
-0
-11
-11
-Package TO-SOT-THT
-TO-220-11_P3.4x5.08mm_StaggerOdd_Lead4.85mm_Vertical
-TO-220-11, Vertical, RM 1.7mm, staggered type-1, see http://www.st.com/resource/en/datasheet/tda7391lv.pdf
-TO-220-11 Vertical RM 1.7mm staggered type-1
-0
-11
-11
-Package TO-SOT-THT
-TO-220-11_P3.4x5.08mm_StaggerOdd_Lead8.45mm_TabDown
-TO-220-11, Horizontal, RM 1.7mm, staggered type-1, see http://www.ti.com/lit/ds/symlink/lmd18200.pdf
-TO-220-11 Horizontal RM 1.7mm staggered type-1
-0
-11
-11
-Package TO-SOT-THT
-TO-220-15_P2.54x2.54mm_StaggerEven_Lead4.58mm_Vertical
-TO-220-15, Vertical, RM 1.27mm, staggered type-2, see http://www.st.com/resource/en/datasheet/l298.pdf
-TO-220-15 Vertical RM 1.27mm staggered type-2
-0
-15
-15
-Package TO-SOT-THT
-TO-220-15_P2.54x2.54mm_StaggerEven_Lead5.84mm_TabDown
-TO-220-15, Horizontal, RM 1.27mm, staggered type-2, see http://www.st.com/resource/en/datasheet/l298.pdf
-TO-220-15 Horizontal RM 1.27mm staggered type-2
-0
-15
-15
-Package TO-SOT-THT
-TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical
-TO-220-15, Vertical, RM 1.27mm, staggered type-1, see http://www.st.com/resource/en/datasheet/l298.pdf
-TO-220-15 Vertical RM 1.27mm staggered type-1
-0
-15
-15
-Package TO-SOT-THT
-TO-220-15_P2.54x2.54mm_StaggerOdd_Lead5.84mm_TabDown
-TO-220-15, Horizontal, RM 1.27mm, staggered type-1, see http://www.st.com/resource/en/datasheet/l298.pdf
-TO-220-15 Horizontal RM 1.27mm staggered type-1
-0
-15
-15
-Package TO-SOT-THT
-TO-220F-2_Horizontal_TabDown
-TO-220F-2, Horizontal, RM 5.08mm, see http://www.onsemi.com/pub/Collateral/FFPF10F150S-D.pdf
-TO-220F-2 Horizontal RM 5.08mm
-0
-2
-2
-Package TO-SOT-THT
-TO-220F-2_Horizontal_TabUp
-TO-220F-2, Horizontal, RM 5.08mm, see http://www.onsemi.com/pub/Collateral/FFPF10F150S-D.pdf
-TO-220F-2 Horizontal RM 5.08mm
-0
-2
-2
-Package TO-SOT-THT
-TO-220F-2_Vertical
-TO-220F-2, Vertical, RM 5.08mm, see http://www.onsemi.com/pub/Collateral/FFPF10F150S-D.pdf
-TO-220F-2 Vertical RM 5.08mm
-0
-2
-2
-Package TO-SOT-THT
-TO-220F-3_Horizontal_TabDown
-TO-220F-3, Horizontal, RM 2.54mm, see http://www.st.com/resource/en/datasheet/stp20nm60.pdf
-TO-220F-3 Horizontal RM 2.54mm
-0
-3
-3
-Package TO-SOT-THT
-TO-220F-3_Horizontal_TabUp
-TO-220F-3, Horizontal, RM 2.54mm, see http://www.st.com/resource/en/datasheet/stp20nm60.pdf
-TO-220F-3 Horizontal RM 2.54mm
-0
-3
-3
-Package TO-SOT-THT
-TO-220F-3_Vertical
-TO-220F-3, Vertical, RM 2.54mm, see http://www.st.com/resource/en/datasheet/stp20nm60.pdf
-TO-220F-3 Vertical RM 2.54mm
-0
-3
-3
-Package TO-SOT-THT
-TO-220F-4_Horizontal_TabDown
-TO-220F-4, Horizontal, RM 2.54mm, see https://www.njr.com/semicon/PDF/package/TO-220F-4_E.pdf
-TO-220F-4 Horizontal RM 2.54mm
-0
-4
-4
-Package TO-SOT-THT
-TO-220F-4_Horizontal_TabUp
-TO-220F-4, Horizontal, RM 2.54mm, see https://www.njr.com/semicon/PDF/package/TO-220F-4_E.pdf
-TO-220F-4 Horizontal RM 2.54mm
-0
-4
-4
-Package TO-SOT-THT
-TO-220F-4_P5.08x2.05mm_StaggerEven_Lead1.85mm_Vertical
-TO-220F-4, Vertical, RM 2.54mm, staggered type-2, see https://www.njr.com/semicon/PDF/package/TO-220F-4_E.pdf
-TO-220F-4 Vertical RM 2.54mm staggered type-2
-0
-4
-4
-Package TO-SOT-THT
-TO-220F-4_P5.08x2.05mm_StaggerOdd_Lead1.85mm_Vertical
-TO-220F-4, Vertical, RM 2.54mm, staggered type-1, see https://www.njr.com/semicon/PDF/package/TO-220F-4_E.pdf
-TO-220F-4 Vertical RM 2.54mm staggered type-1
-0
-4
-4
-Package TO-SOT-THT
-TO-220F-4_P5.08x3.7mm_StaggerEven_Lead3.5mm_Vertical
-TO-220F-4, Vertical, RM 2.54mm, staggered type-2, see https://www.njr.com/semicon/PDF/package/TO-220F-4_E.pdf
-TO-220F-4 Vertical RM 2.54mm staggered type-2
-0
-4
-4
-Package TO-SOT-THT
-TO-220F-4_P5.08x3.7mm_StaggerOdd_Lead3.5mm_Vertical
-TO-220F-4, Vertical, RM 2.54mm, staggered type-1, see https://www.njr.com/semicon/PDF/package/TO-220F-4_E.pdf
-TO-220F-4 Vertical RM 2.54mm staggered type-1
-0
-4
-4
-Package TO-SOT-THT
-TO-220F-4_Vertical
-TO-220F-4, Vertical, RM 2.54mm, see https://www.njr.com/semicon/PDF/package/TO-220F-4_E.pdf
-TO-220F-4 Vertical RM 2.54mm
-0
-4
-4
-Package TO-SOT-THT
-TO-220F-5_Horizontal_TabDown
-TO-220F-5, Horizontal, RM 1.7mm, PentawattF-, MultiwattF-5
-TO-220F-5 Horizontal RM 1.7mm PentawattF- MultiwattF-5
-0
-5
-5
-Package TO-SOT-THT
-TO-220F-5_Horizontal_TabUp
-TO-220F-5, Horizontal, RM 1.7mm, PentawattF-, MultiwattF-5
-TO-220F-5 Horizontal RM 1.7mm PentawattF- MultiwattF-5
-0
-5
-5
-Package TO-SOT-THT
-TO-220F-5_P3.4x2.06mm_StaggerEven_Lead1.86mm_Vertical
-TO-220F-5, Vertical, RM 1.7mm, PentawattF-, MultiwattF-5, staggered type-2
-TO-220F-5 Vertical RM 1.7mm PentawattF- MultiwattF-5 staggered type-2
-0
-5
-5
-Package TO-SOT-THT
-TO-220F-5_P3.4x2.06mm_StaggerOdd_Lead1.86mm_Vertical
-TO-220F-5, Vertical, RM 1.7mm, PentawattF-, MultiwattF-5, staggered type-1
-TO-220F-5 Vertical RM 1.7mm PentawattF- MultiwattF-5 staggered type-1
-0
-5
-5
-Package TO-SOT-THT
-TO-220F-5_P3.4x3.7mm_StaggerEven_Lead3.5mm_Vertical
-TO-220F-5, Vertical, RM 1.7mm, PentawattF-, MultiwattF-5, staggered type-2
-TO-220F-5 Vertical RM 1.7mm PentawattF- MultiwattF-5 staggered type-2
-0
-5
-5
-Package TO-SOT-THT
-TO-220F-5_P3.4x3.7mm_StaggerOdd_Lead3.5mm_Vertical
-TO-220F-5, Vertical, RM 1.7mm, PentawattF-, MultiwattF-5, staggered type-1
-TO-220F-5 Vertical RM 1.7mm PentawattF- MultiwattF-5 staggered type-1
-0
-5
-5
-Package TO-SOT-THT
-TO-220F-5_Vertical
-TO-220F-5, Vertical, RM 1.7mm, PentawattF-, MultiwattF-5
-TO-220F-5 Vertical RM 1.7mm PentawattF- MultiwattF-5
-0
-5
-5
-Package TO-SOT-THT
-TO-220F-7_P2.54x3.7mm_StaggerEven_Lead3.5mm_Vertical
-TO-220F-7, Vertical, RM 1.27mm, staggered type-2
-TO-220F-7 Vertical RM 1.27mm staggered type-2
-0
-7
-7
-Package TO-SOT-THT
-TO-220F-7_P2.54x3.7mm_StaggerOdd_Lead3.5mm_Vertical
-TO-220F-7, Vertical, RM 1.27mm, staggered type-1
-TO-220F-7 Vertical RM 1.27mm staggered type-1
-0
-7
-7
-Package TO-SOT-THT
-TO-220F-9_P1.8x3.7mm_StaggerEven_Lead3.5mm_Vertical
-TO-220F-9, Vertical, RM 0.9mm, staggered type-2
-TO-220F-9 Vertical RM 0.9mm staggered type-2
-0
-9
-9
-Package TO-SOT-THT
-TO-220F-9_P1.8x3.7mm_StaggerOdd_Lead3.5mm_Vertical
-TO-220F-9, Vertical, RM 0.9mm, staggered type-1
-TO-220F-9 Vertical RM 0.9mm staggered type-1
-0
-9
-9
-Package TO-SOT-THT
-TO-220F-11_P3.4x5.08mm_StaggerEven_Lead5.08mm_Vertical
-TO-220F-11, Vertical, RM 1.7mm, MultiwattF-11, staggered type-2, see http://www.ti.com/lit/ds/symlink/lm3886.pdf
-TO-220F-11 Vertical RM 1.7mm MultiwattF-11 staggered type-2
-0
-11
-11
-Package TO-SOT-THT
-TO-220F-11_P3.4x5.08mm_StaggerOdd_Lead5.08mm_Vertical
-TO-220F-11, Vertical, RM 1.7mm, MultiwattF-11, staggered type-1, see http://www.ti.com/lit/ds/symlink/lm3886.pdf
-TO-220F-11 Vertical RM 1.7mm MultiwattF-11 staggered type-1
-0
-11
-11
-Package TO-SOT-THT
-TO-220F-15_P2.54x5.08mm_StaggerEven_Lead5.08mm_Vertical
-TO-220F-15, Vertical, RM 1.27mm, MultiwattF-15, staggered type-2
-TO-220F-15 Vertical RM 1.27mm MultiwattF-15 staggered type-2
-0
-15
-15
-Package TO-SOT-THT
-TO-220F-15_P2.54x5.08mm_StaggerOdd_Lead5.08mm_Vertical
-TO-220F-15, Vertical, RM 1.27mm, MultiwattF-15, staggered type-1
-TO-220F-15 Vertical RM 1.27mm MultiwattF-15 staggered type-1
-0
-15
-15
-Package TO-SOT-THT
-TO-247-2_Horizontal_TabDown
-TO-247-2, Horizontal, RM 10.9mm, see https://toshiba.semicon-storage.com/us/product/mosfet/to-247-4l.html
-TO-247-2 Horizontal RM 10.9mm
-0
-2
-2
-Package TO-SOT-THT
-TO-247-2_Horizontal_TabUp
-TO-247-2, Horizontal, RM 10.9mm, see https://toshiba.semicon-storage.com/us/product/mosfet/to-247-4l.html
-TO-247-2 Horizontal RM 10.9mm
-0
-2
-2
-Package TO-SOT-THT
-TO-247-2_Vertical
-TO-247-2, Vertical, RM 10.9mm, see https://toshiba.semicon-storage.com/us/product/mosfet/to-247-4l.html
-TO-247-2 Vertical RM 10.9mm
-0
-2
-2
-Package TO-SOT-THT
-TO-247-3_Horizontal_TabDown
-TO-247-3, Horizontal, RM 5.45mm, see https://toshiba.semicon-storage.com/us/product/mosfet/to-247-4l.html
-TO-247-3 Horizontal RM 5.45mm
-0
-3
-3
-Package TO-SOT-THT
-TO-247-3_Horizontal_TabUp
-TO-247-3, Horizontal, RM 5.45mm, see https://toshiba.semicon-storage.com/us/product/mosfet/to-247-4l.html
-TO-247-3 Horizontal RM 5.45mm
-0
-3
-3
-Package TO-SOT-THT
-TO-247-3_Vertical
-TO-247-3, Vertical, RM 5.45mm, see https://toshiba.semicon-storage.com/us/product/mosfet/to-247-4l.html
-TO-247-3 Vertical RM 5.45mm
-0
-3
-3
-Package TO-SOT-THT
-TO-247-4_Horizontal_TabDown
-TO-247-4, Horizontal, RM 2.54mm, see https://toshiba.semicon-storage.com/us/product/mosfet/to-247-4l.html
-TO-247-4 Horizontal RM 2.54mm
-0
-4
-4
-Package TO-SOT-THT
-TO-247-4_Horizontal_TabUp
-TO-247-4, Horizontal, RM 2.54mm, see https://toshiba.semicon-storage.com/us/product/mosfet/to-247-4l.html
-TO-247-4 Horizontal RM 2.54mm
-0
-4
-4
-Package TO-SOT-THT
-TO-247-4_Vertical
-TO-247-4, Vertical, RM 2.54mm, see https://toshiba.semicon-storage.com/us/product/mosfet/to-247-4l.html
-TO-247-4 Vertical RM 2.54mm
-0
-4
-4
-Package TO-SOT-THT
-TO-247-5_Horizontal_TabDown
-TO-247-5, Horizontal, RM 2.54mm, see http://ww1.microchip.com/downloads/en/DeviceDoc/20005685A.pdf
-TO-247-5 Horizontal RM 2.54mm
-0
-5
-5
-Package TO-SOT-THT
-TO-247-5_Horizontal_TabUp
-TO-247-5, Horizontal, RM 2.54mm, see http://ww1.microchip.com/downloads/en/DeviceDoc/20005685A.pdf
-TO-247-5 Horizontal RM 2.54mm
-0
-5
-5
-Package TO-SOT-THT
-TO-247-5_Vertical
-TO-247-5, Vertical, RM 2.54mm, see http://ww1.microchip.com/downloads/en/DeviceDoc/20005685A.pdf
-TO-247-5 Vertical RM 2.54mm
-0
-5
-5
-Package TO-SOT-THT
-TO-251-2-1EP_Horizontal_TabDown
-TO-251-2, Horizontal, RM 4.58mm, IPAK, see https://www.diodes.com/assets/Package-Files/TO251.pdf
-TO-251-2 Horizontal RM 4.58mm IPAK
-0
-3
-3
-Package TO-SOT-THT
-TO-251-2_Vertical
-TO-251-2, Vertical, RM 4.58mm, IPAK, see https://www.diodes.com/assets/Package-Files/TO251.pdf
-TO-251-2 Vertical RM 4.58mm IPAK
-0
-2
-2
-Package TO-SOT-THT
-TO-251-3-1EP_Horizontal_TabDown
-TO-251-3, Horizontal, RM 2.29mm, IPAK, see https://www.diodes.com/assets/Package-Files/TO251.pdf
-TO-251-3 Horizontal RM 2.29mm IPAK
-0
-4
-4
-Package TO-SOT-THT
-TO-251-3_Vertical
-TO-251-3, Vertical, RM 2.29mm, IPAK, see https://www.diodes.com/assets/Package-Files/TO251.pdf
-TO-251-3 Vertical RM 2.29mm IPAK
-0
-3
-3
-Package TO-SOT-THT
-TO-262-3-1EP_Horizontal_TabDown
-TO-262-3, Horizontal, RM 2.54mm, IIPAK, I2PAK, see http://www.onsemi.com/pub/Collateral/EN8586-D.PDF
-TO-262-3 Horizontal RM 2.54mm IIPAK I2PAK
-0
-4
-4
-Package TO-SOT-THT
-TO-262-3_Vertical
-TO-262-3, Vertical, RM 2.54mm, IIPAK, I2PAK, see http://www.onsemi.com/pub/Collateral/EN8586-D.PDF
-TO-262-3 Vertical RM 2.54mm IIPAK I2PAK
-0
-3
-3
-Package TO-SOT-THT
-TO-262-5-1EP_Horizontal_TabDown
-TO-262-5, Horizontal, RM 1.7mm, IIPAK, I2PAK, see http://pdf.datasheetcatalog.com/datasheet/irf/iris4011.pdf
-TO-262-5 Horizontal RM 1.7mm IIPAK I2PAK
-0
-6
-6
-Package TO-SOT-THT
-TO-262-5_Vertical
-TO-262-5, Vertical, RM 1.7mm, IIPAK, I2PAK, see http://pdf.datasheetcatalog.com/datasheet/irf/iris4011.pdf
-TO-262-5 Vertical RM 1.7mm IIPAK I2PAK
-0
-5
-5
-Package TO-SOT-THT
-TO-264-2_Horizontal_TabDown
-TO-264-2, Horizontal, RM 10.9mm, see https://www.fairchildsemi.com/package-drawings/TO/TO264A03.pdf
-TO-264-2 Horizontal RM 10.9mm
-0
-2
-2
-Package TO-SOT-THT
-TO-264-2_Horizontal_TabUp
-TO-264-2, Horizontal, RM 10.9mm, see https://www.fairchildsemi.com/package-drawings/TO/TO264A03.pdf
-TO-264-2 Horizontal RM 10.9mm
-0
-2
-2
-Package TO-SOT-THT
-TO-264-2_Vertical
-TO-264-2, Vertical, RM 10.9mm, see https://www.fairchildsemi.com/package-drawings/TO/TO264A03.pdf
-TO-264-2 Vertical RM 10.9mm
-0
-2
-2
-Package TO-SOT-THT
-TO-264-3_Horizontal_TabDown
-TO-264-3, Horizontal, RM 5.45mm, see https://www.fairchildsemi.com/package-drawings/TO/TO264A03.pdf
-TO-264-3 Horizontal RM 5.45mm
-0
-3
-3
-Package TO-SOT-THT
-TO-264-3_Horizontal_TabUp
-TO-264-3, Horizontal, RM 5.45mm, see https://www.fairchildsemi.com/package-drawings/TO/TO264A03.pdf
-TO-264-3 Horizontal RM 5.45mm
-0
-3
-3
-Package TO-SOT-THT
-TO-264-3_Vertical
-TO-264-3, Vertical, RM 5.45mm, see https://www.fairchildsemi.com/package-drawings/TO/TO264A03.pdf
-TO-264-3 Vertical RM 5.45mm
-0
-3
-3
-Package TO-SOT-THT
-TO-264-5_Horizontal_TabDown
-TO-264-5, Horizontal, RM 3.81mm, see https://www.onsemi.com/pub/Collateral/NJL3281D-D.PDF
-TO-264-5 Horizontal RM 3.81mm
-0
-5
-5
-Package TO-SOT-THT
-TO-264-5_Horizontal_TabUp
-TO-264-5, Horizontal, RM 3.81mm, see https://www.onsemi.com/pub/Collateral/NJL3281D-D.PDF
-TO-264-5 Horizontal RM 3.81mm
-0
-5
-5
-Package TO-SOT-THT
-TO-264-5_Vertical
-TO-264-5, Vertical, RM 3.81mm, see https://www.onsemi.com/pub/Collateral/NJL3281D-D.PDF
-TO-264-5 Vertical RM 3.81mm
-0
-5
-5
+Package_BGA
+Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
+Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf
+BGA 28 0.8
+0
+28
+28
 Package_BGA
 BGA-9_1.6x1.6mm_Layout3x3_P0.5mm
 BGA-9, http://www.ti.com/lit/ds/symlink/bq27421-g1.pdf
@@ -54201,6 +53606,20 @@ LFCSP NoLead
 26
 17
 Package_CSP
+LFCSP-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm
+LFCSP, 16 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/HMC7992.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+21
+17
+Package_CSP
+LFCSP-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm_ThermalVias
+LFCSP, 16 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/HMC7992.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+26
+17
+Package_CSP
 LFCSP-16-1EP_3x3mm_P0.5mm_EP1.854x1.854mm
 16-Lead Lead Frame Chip Scale Package, 3x3mm, 0.5mm pitch, 1.854mm thermal pad (CP-16-22, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_16_22.pdf)
 LFCSP 16 0.5
@@ -54256,6 +53675,20 @@ LFCSP 0.5
 0
 37
 33
+Package_CSP
+LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm
+LFCSP, 64 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_64_7.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+69
+65
+Package_CSP
+LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm_ThermalVias
+LFCSP, 64 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_64_7.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+86
+65
 Package_CSP
 LFCSP-72-1EP_10x10mm_P0.5mm_EP5.3x5.3mm
 LFCSP, 72 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/ADAU1452_1451_1450.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
@@ -54866,6 +54299,13 @@ DFN 0.5
 13
 11
 Package_DFN_QFN
+DFN-10-1EP_3x3mm_P0.5mm_EP1.7x2.5mm
+DFN, 10 Pin (https://www.monolithicpower.com/pub/media/document/MPQ2483_r1.05.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+15
+11
+Package_DFN_QFN
 DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm
 10-Lead Plastic Dual Flat, No Lead Package (MF) - 3x3x0.9 mm Body [DFN] (see Microchip Packaging Specification 00000049BS.pdf)
 DFN 0.5
@@ -55237,6 +54677,13 @@ DFN 0.5
 8
 8
 Package_DFN_QFN
+OnSemi_UDFN-8_1.2x1.8mm_P0.4mm
+8-Lead Plastic Dual Flat, No Lead Package, 1.2x1.8x1.55 mm Body [UDFN] (See http://www.onsemi.com/pub/Collateral/NLSV2T244-D.PDF)
+dfn udfn dual flat
+0
+8
+8
+Package_DFN_QFN
 OnSemi_VCT-28_3.5x3.5mm_P0.4mm
 OnSemi  VCT, 28 Pin (http://www.onsemi.com/pub/Collateral/601AE.PDF), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
 OnSemi VCT DFN_QFN
@@ -55317,6 +54764,20 @@ Package_DFN_QFN
 QFN-16-1EP_3x3mm_P0.5mm_EP1.45x1.45mm_ThermalVias
 QFN, 16 Pin (http://cds.linear.com/docs/en/datasheet/37551fd.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
 QFN DFN_QFN
+0
+26
+17
+Package_DFN_QFN
+QFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm
+QFN, 16 Pin (https://www.onsemi.com/pub/Collateral/NCN4555-D.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+21
+17
+Package_DFN_QFN
+QFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm_ThermalVias
+QFN, 16 Pin (https://www.onsemi.com/pub/Collateral/NCN4555-D.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
 0
 26
 17
@@ -55471,6 +54932,20 @@ Package_DFN_QFN
 QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias
 QFN, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/doc2535.pdf#page=164), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
 QFN DFN_QFN
+0
+30
+21
+Package_DFN_QFN
+QFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm
+QFN, 20 Pin (https://www.silabs.com/documents/public/data-sheets/Si5351-B.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+25
+21
+Package_DFN_QFN
+QFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias
+QFN, 20 Pin (https://www.silabs.com/documents/public/data-sheets/Si5351-B.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
 0
 30
 21
@@ -56518,6 +55993,20 @@ QFN NoLead
 43
 29
 Package_DFN_QFN
+Texas_RGE0024C_EP2.1x2.1mm
+Texas  QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/pca9548a.pdf#page=34), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas QFN NoLead
+0
+29
+25
+Package_DFN_QFN
+Texas_RGE0024C_EP2.1x2.1mm_ThermalVias
+Texas  QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/pca9548a.pdf#page=34), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas QFN NoLead
+0
+39
+25
+Package_DFN_QFN
 Texas_RGE0024H_EP2.7x2.7mm
 Texas  QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/tlc5971.pdf#page=43), generated with kicad-footprint-generator ipc_noLead_generator.py
 Texas QFN NoLead
@@ -56531,6 +56020,13 @@ Texas QFN NoLead
 0
 39
 25
+Package_DFN_QFN
+Texas_RNN0018A
+Texas Instruments, VQFN-HR RNN0018A (http://www.ti.com/lit/ds/symlink/tps568215.pdf)
+ti vqfn-hr rnn0018a
+0
+26
+18
 Package_DFN_QFN
 Texas_RUM0016A_EP2.6x2.6mm
 QFN, 16 Pin (http://www.ti.com/lit/ds/symlink/lmh0074.pdf#page=13), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -56812,6 +56308,20 @@ QFN NoLead
 39
 25
 Package_DFN_QFN
+Texas_S-PWQFN-N32_EP2.8x2.8mm
+QFN, 32 Pin (https://www.ti.com/lit/ds/symlink/bq25703a.pdf#page=91), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+37
+33
+Package_DFN_QFN
+Texas_S-PWQFN-N32_EP2.8x2.8mm_ThermalVias
+QFN, 32 Pin (https://www.ti.com/lit/ds/symlink/bq25703a.pdf#page=91), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+47
+33
+Package_DFN_QFN
 Texas_S-PWQFN-N100_EP5.5x5.5mm
 http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=szza059&fileType=pdf,http://www.ti.com/lit/ds/sllse76m/sllse76m.pdf
 MultiRow QFN
@@ -56864,6 +56374,13 @@ Package_DFN_QFN
 TQFN-16-1EP_3x3mm_P0.5mm_EP1.23x1.23mm
 TQFN, 16 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0136.PDF (T1633-5), https://pdfserv.maximintegrated.com/land_patterns/90-0032.PDF), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
 TQFN DFN_QFN
+0
+21
+17
+Package_DFN_QFN
+TQFN-16-1EP_5x5mm_P0.8mm_EP3.1x3.1mm
+TQFN, 16 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0140.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+TQFN NoLead
 0
 21
 17
@@ -59753,10 +59270,17 @@ QFP 0.65
 80
 Package_QFP
 TQFP-100-1EP_14x14mm_P0.5mm_EP5x5mm
-100-Lead Plastic Thin Quad Flatpack (PF) - 14x14x1 mm Body 2.00 mm Footprint with Exposed Pad [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.5
+TQFP, 100 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/tqfp_edsv/sv_100_4.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TQFP QFP
 0
 117
+101
+Package_QFP
+TQFP-100-1EP_14x14mm_P0.5mm_EP5x5mm_ThermalVias
+TQFP, 100 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/tqfp_edsv/sv_100_4.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TQFP QFP
+0
+143
 101
 Package_QFP
 TQFP-100_12x12mm_P0.4mm
@@ -60522,6 +60046,13 @@ SO SOIC 2.54
 4
 4
 Package_SO
+SO-4_4.4x3.9mm_P2.54mm
+SO, 4 Pin (https://toshiba.semicon-storage.com/info/docget.jsp?did=10047&prodName=TLP3123), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SO SO
+0
+4
+4
+Package_SO
 SO-4_4.4x4.3mm_P2.54mm
 4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN
 SO SOIC 2.54
@@ -60670,22 +60201,29 @@ SOIC 1.27
 7
 Package_SO
 SOIC-8_3.9x4.9mm_P1.27mm
-8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf)
-SOIC 1.27
+SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
 0
 8
 8
 Package_SO
-SOIC-14W_7.5x9.0mm_P1.27mm
-14-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body (http://www.ti.com/lit/ds/symlink/lm1877.pdf)
-SOIC 1.27
+SOIC-8_5.23x5.23mm_P1.27mm
+SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
+Package_SO
+SOIC-14W_7.5x9mm_P1.27mm
+SOIC, 14 Pin (JEDEC MS-013AF, https://www.analog.com/media/en/package-pcb-resources/package/54614177245586rw_14.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
 0
 14
 14
 Package_SO
 SOIC-14_3.9x8.7mm_P1.27mm
-14-Lead Plastic Small Outline (SL) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
+SOIC, 14 Pin (JEDEC MS-012AB, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_14.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
 0
 14
 14
@@ -60705,22 +60243,22 @@ SOIC 1.27
 16
 Package_SO
 SOIC-16W_7.5x10.3mm_P1.27mm
-16-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
+SOIC, 16 Pin (JEDEC MS-013AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_wide-rw/rw_16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
 0
 16
 16
 Package_SO
 SOIC-16W_7.5x12.8mm_P1.27mm
-16-Lead Plastic Small Outline (SO) - Wide, 7.50 mm x 12.8 mm Body (http://www.analog.com/media/en/technical-documentation/data-sheets/ADuM6000.PDF)
-SOIC 1.27
+SOIC, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ri_soic_ic/ri_16_1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
 0
 16
 16
 Package_SO
 SOIC-16_3.9x9.9mm_P1.27mm
-16-Lead Plastic Small Outline (SL) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
+SOIC, 16 Pin (JEDEC MS-012AC, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
 0
 16
 16
@@ -60733,36 +60271,36 @@ SOIC SO
 16
 Package_SO
 SOIC-18W_7.5x11.6mm_P1.27mm
-18-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
+SOIC, 18 Pin (JEDEC MS-013AB, https://www.analog.com/media/en/package-pcb-resources/package/33254132129439rw_18.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
 0
 18
 18
 Package_SO
 SOIC-20W_7.5x12.8mm_P1.27mm
-20-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
+SOIC, 20 Pin (JEDEC MS-013AC, https://www.analog.com/media/en/package-pcb-resources/package/233848rw_20.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
 0
 20
 20
 Package_SO
 SOIC-24W_7.5x15.4mm_P1.27mm
-24-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
+SOIC, 24 Pin (JEDEC MS-013AD, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_wide-rw/RW_24.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
 0
 24
 24
 Package_SO
 SOIC-28W_7.5x17.9mm_P1.27mm
-28-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
+SOIC, 28 Pin (JEDEC MS-013AE, https://www.analog.com/media/en/package-pcb-resources/package/35833120341221rw_28.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
 0
 28
 28
 Package_SO
 SOIC-28W_7.5x18.7mm_P1.27mm
-28-Lead Plastic Small Outline (SO) - Wide, 7.50 mm X 18.7 mm Body [SOIC] (https://www.akm.com/akm/en/file/datasheet/AK5394AVS.pdf)
-SOIC 1.27
+SOIC, 28 Pin (https://www.akm.com/akm/en/file/datasheet/AK5394AVS.pdf#page=23), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
 0
 28
 28
@@ -61032,6 +60570,13 @@ SSOP 0.635
 0
 56
 56
+Package_SO
+STC_SOP-16_3.9x9.9mm_P1.27mm
+STC  SOP, 16 Pin (https://www.stcmicro.com/datasheet/STC15F2K60S2-en.pdf#page=156), generated with kicad-footprint-generator ipc_gullwing_generator.py
+STC SOP SO
+0
+16
+16
 Package_SO
 ST_MultiPowerSO-30
 MultiPowerSO-30 3EP 16.0x17.2mm Pitch 1mm (http://www.st.com/resource/en/datasheet/vnh2sp30-e.pdf)
@@ -61439,6 +60984,13 @@ Fairchild-specific MicroPak2-6 1.0x1.0mm Pitch 0.35mm
 6
 6
 Package_SON
+HVSON-8-1EP_4x4mm_P0.8mm_EP2.2x3.1mm
+HVSON, 8 Pin (https://www.nxp.com/docs/en/data-sheet/PCF8523.pdf (page 57)), generated with kicad-footprint-generator ipc_noLead_generator.py
+HVSON NoLead
+0
+13
+9
+Package_SON
 NXP_XSON-16
 http://www.nxp.com/documents/outline_drawing/SOT1341-1.pdf
 NXP XSON SOT-1341
@@ -61452,6 +61004,13 @@ ROHM VML0806
 0
 3
 3
+Package_SON
+RTC_SMD_MicroCrystal_C3_2.5x3.7mm
+MicroCrystal C3 2.5x3.7mm, https://www.microcrystal.com/fileadmin/Media/Products/RTC/Datasheet/RV-1805-C3.pdf
+RTC C3
+0
+10
+10
 Package_SON
 SON-8-1EP_3x2mm_P0.5mm_EP1.4x1.6mm
 SON, 8 Pin (http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS16-DS501-00014-6v0-E.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
@@ -65190,181 +64749,6 @@ Potentiometer vertical Vishay T73YP
 0
 3
 3
-promicro
-ProMicro
-Pro Micro footprint
-promicro ProMicro
-0
-24
-24
-random-keyboard-parts
-breakaway-mousebites
-
-
-0
-0
-0
-random-keyboard-parts
-D_SOD-123-Pretty
-SOD-123
-SOD-123
-0
-2
-2
-random-keyboard-parts
-Generic-Mounthole
-
-
-0
-1
-1
-random-keyboard-parts
-JST-SR-3
-
-
-0
-5
-3
-random-keyboard-parts
-JST-SR-4
-
-
-0
-6
-4
-random-keyboard-parts
-Jumper-UserFriendly
-
-
-0
-2
-2
-random-keyboard-parts
-Jumper-UserFriendly-Small
-
-
-0
-2
-2
-random-keyboard-parts
-LED-6028
-
-
-0
-2
-2
-random-keyboard-parts
-LED_D3.0mm-NoSilk
-LED, diameter 3.0mm, 2 pins
-LED diameter 3.0mm 2 pins
-0
-2
-2
-random-keyboard-parts
-LED_D3.0mm-Pretty
-LED, diameter 3.0mm, 2 pins
-LED diameter 3.0mm 2 pins
-0
-2
-2
-random-keyboard-parts
-Molex-0548190519
-
-
-0
-7
-6
-random-keyboard-parts
-Molex-0548190589
-
-
-0
-9
-6
-random-keyboard-parts
-PJ-3200B-4A
-
-
-0
-4
-4
-random-keyboard-parts
-PJ-3200B-4A-Assembly
-
-
-0
-4
-4
-random-keyboard-parts
-PushButton_6x6mm_TH
-
-
-0
-4
-4
-random-keyboard-parts
-PushButton_6x6mm_TH_Pretty
-
-
-0
-4
-4
-random-keyboard-parts
-Reset_Pretty
-
-
-0
-6
-6
-random-keyboard-parts
-Reset_Pretty-Mask
-
-
-0
-6
-6
-random-keyboard-parts
-RGB-6028
-
-
-0
-4
-4
-random-keyboard-parts
-SKQG-1155865
-
-
-0
-4
-4
-random-keyboard-parts
-SKQGADE010
-
-
-0
-4
-4
-random-keyboard-parts
-SOT143B
-
-
-0
-4
-4
-random-keyboard-parts
-USB-A-Generic
-
-
-0
-6
-5
-random-keyboard-parts
-USON-TPDxE05U06
-
-
-0
-10
-10
 Relay_SMD
 Relay_DPDT_AXICOM_IMSeries_JLeg
 http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Specification+Or+Standard%7F108-98001%7FW5%7Fpdf%7FEnglish%7FENG_SS_108-98001_W5.pdf
@@ -65716,6 +65100,20 @@ Relay SPDT Potter&Brumfield T9AP5D52 12V 30A 1xUm Connector Fast ON Flachstecker
 0
 0
 Relay_THT
+Relay_SPDT_RAYEX-L90
+https://a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf
+Relay RAYEX L90 SPDT
+0
+6
+6
+Relay_THT
+Relay_SPDT_RAYEX-L90S
+https://a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf
+Relay RAYEX L90S SPDT
+0
+5
+5
+Relay_THT
 Relay_SPDT_SANYOU_SRD_Series_Form_C
 relay Sanyou SRD series Form C http://www.sanyourelay.ca/public/products/pdf/SRD.pdf
 relay Sanyu SRD form C
@@ -65799,6 +65197,34 @@ Relau SPST Potter&Brumfield T9AP1D52 12V 30A 1xEin Connector Fast ON Flachstecke
 0
 0
 0
+Relay_THT
+Relay_SPST_RAYEX-L90A
+https://a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf
+Relay RAYEX L90A SPST NO
+0
+5
+5
+Relay_THT
+Relay_SPST_RAYEX-L90AS
+https://a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf
+Relay RAYEX L90AS SPST NO
+0
+4
+4
+Relay_THT
+Relay_SPST_RAYEX-L90B
+https://a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf
+Relay RAYEX L90B SPST NC
+0
+5
+5
+Relay_THT
+Relay_SPST_RAYEX-L90BS
+https://a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf
+Relay RAYEX L90BS SPST NC
+0
+4
+4
 Relay_THT
 Relay_SPST_SANYOU_SRD_Series_Form_A
 relay Sanyou SRD series Form A http://www.sanyourelay.ca/public/products/pdf/SRD.pdf
@@ -67892,6 +67318,13 @@ Shielding Cabinet
 0
 48
 1
+RF_WiFi
+USR-C322
+https://www.usriot.com/download/WIFI/USR-C322-Hardware-Manual_V1.2.01.pdf
+WiFi IEEE802.11 b/g/n
+0
+44
+44
 Rotary_Encoder
 RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
@@ -68368,6 +67801,1056 @@ https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-24901
 0
 48
 48
+SparkFun-Electromechanical
+1X01_TURRET
+0.08" DRILL, 0.13" TDOC
+0.08" DRILL, 0.13" TDOC
+0
+1
+1
+SparkFun-Electromechanical
+1X03
+
+
+0
+3
+3
+SparkFun-Electromechanical
+4-POS-DIP-SMD
+
+
+0
+8
+8
+SparkFun-Electromechanical
+209-2LPST
+
+
+0
+4
+4
+SparkFun-Electromechanical
+3362U
+
+
+0
+3
+3
+SparkFun-Electromechanical
+3362U-2
+
+
+0
+3
+3
+SparkFun-Electromechanical
+3386U
+TSR-3386U TRIMPOT
+TSR-3386U TRIMPOT
+0
+3
+3
+SparkFun-Electromechanical
+6400BG_HEATSINK
+
+
+0
+0
+0
+SparkFun-Electromechanical
+AAVID_573400
+
+
+0
+2
+2
+SparkFun-Electromechanical
+ALPS_POT
+
+
+0
+5
+5
+SparkFun-Electromechanical
+ALPS_POT_KIT
+
+
+0
+5
+5
+SparkFun-Electromechanical
+AYZ0202
+DPDT SLIDE SWITCH SMD
+DPDT SLIDE SWITCH SMD
+0
+6
+6
+SparkFun-Electromechanical
+BATTCOM_20MM_PTH
+
+
+0
+2
+2
+SparkFun-Electromechanical
+BATTCON_9V
+
+
+0
+2
+2
+SparkFun-Electromechanical
+BATTCON_12MM
+
+
+0
+3
+2
+SparkFun-Electromechanical
+BATTCON_12MM_PTH
+
+
+0
+3
+2
+SparkFun-Electromechanical
+BATTCON_20MM
+
+
+0
+3
+3
+SparkFun-Electromechanical
+BATTCON_20MM_4LEGS
+
+
+0
+5
+2
+SparkFun-Electromechanical
+BATTCON_20MM_4LEGS_OVERPASTE
+
+
+0
+5
+5
+SparkFun-Electromechanical
+BATTCON_245MM
+
+
+0
+3
+3
+SparkFun-Electromechanical
+BATTCON_245MM_PTH
+
+
+0
+3
+3
+SparkFun-Electromechanical
+BATTERY
+BATTERY
+BATTERY
+0
+3
+3
+SparkFun-Electromechanical
+BATTERY-AA
+
+
+0
+4
+2
+SparkFun-Electromechanical
+BATTERY-AA-KIT
+BATTERY-AA-KIT
+BATTERY-AA-KIT
+0
+4
+2
+SparkFun-Electromechanical
+BATTERY-AA-PANEL
+
+
+0
+2
+2
+SparkFun-Electromechanical
+BATTERY-AAA
+
+
+0
+4
+2
+SparkFun-Electromechanical
+BATTERY-AAA-KIT
+
+
+0
+4
+2
+SparkFun-Electromechanical
+BATTERY_20MM_PTH_COMPACT
+
+
+0
+3
+3
+SparkFun-Electromechanical
+BATTERY_18650-HOLDER
+WORKS WITH 18650 CLIPS PRT-13113.
+WORKS WITH 18650 CLIPS PRT-13113.
+0
+6
+2
+SparkFun-Electromechanical
+BUTTON-10MM
+
+
+0
+2
+2
+SparkFun-Electromechanical
+BUTTON-18MM
+
+
+0
+2
+2
+SparkFun-Electromechanical
+BUTTON-CONDUCTIVE
+
+
+0
+2
+2
+SparkFun-Electromechanical
+BUTTON-CONDUCTIVE-0.1
+
+
+0
+2
+2
+SparkFun-Electromechanical
+BUTTON-CONDUCTIVE-MINI
+
+
+0
+2
+2
+SparkFun-Electromechanical
+BUTTONPAD-2X2
+
+
+0
+40
+40
+SparkFun-Electromechanical
+BUTTONPAD-2X2-SPECIAL
+
+
+0
+24
+24
+SparkFun-Electromechanical
+BUTTONPAD-2X2SINGLE
+
+
+0
+16
+16
+SparkFun-Electromechanical
+BUTTONPAD-2X2SINGLE-KIT
+BUTTONPAD-2X2SINGLE-KIT
+BUTTONPAD-2X2SINGLE-KIT
+0
+16
+16
+SparkFun-Electromechanical
+BUTTONPAD-4X4
+
+
+0
+96
+50
+SparkFun-Electromechanical
+BUTTONPAD-4X4-SPECIAL
+
+
+0
+96
+50
+SparkFun-Electromechanical
+BUZZER-12MM
+BUZZER
+BUZZER
+0
+2
+2
+SparkFun-Electromechanical
+BUZZER-12MM-KIT
+
+
+0
+2
+2
+SparkFun-Electromechanical
+BUZZER-12MM-NS
+
+
+0
+2
+2
+SparkFun-Electromechanical
+BUZZER-12MM-NS-KIT
+BUZZER-12MM-NS-KIT
+BUZZER-12MM-NS-KIT
+0
+2
+2
+SparkFun-Electromechanical
+BUZZER-CCV
+
+
+0
+2
+2
+SparkFun-Electromechanical
+BUZZER-CCV-KIT
+BUZZER-CCV-KIT
+BUZZER-CCV-KIT
+0
+2
+2
+SparkFun-Electromechanical
+BUZZER-CMT1102
+
+
+0
+2
+2
+SparkFun-Electromechanical
+BUZZER-CMT1603
+
+
+0
+2
+2
+SparkFun-Electromechanical
+CAPSENSE_PAD
+
+
+0
+2
+2
+SparkFun-Electromechanical
+CHS-02A
+2 BITS, J-HOOK
+2 BITS, J-HOOK
+0
+4
+4
+SparkFun-Electromechanical
+DIPSWITCH-02
+DIP SWITCH
+DIP SWITCH
+0
+4
+4
+SparkFun-Electromechanical
+DIPSWITCH-02-50MIL
+DIP SWITCH
+DIP SWITCH
+0
+4
+4
+SparkFun-Electromechanical
+DIPSWITCH-08
+DIP SWITCH
+DIP SWITCH
+0
+16
+16
+SparkFun-Electromechanical
+DIPSWITCH-08-50MIL
+DIP SWITCH
+DIP SWITCH
+0
+16
+16
+SparkFun-Electromechanical
+EG2211
+
+
+0
+8
+6
+SparkFun-Electromechanical
+ENCODER-16MM-QUAD
+16MM TOP WIDTH
+16MM TOP WIDTH
+0
+5
+5
+SparkFun-Electromechanical
+ENCODER_LED_2
+2-COLOR ILLUMINATED ROTARY ENCODER
+2-COLOR ILLUMINATED ROTARY ENCODER
+0
+9
+9
+SparkFun-Electromechanical
+ENCODER_LED_2_KIT
+
+
+0
+9
+9
+SparkFun-Electromechanical
+ENCODER_LED_3
+
+
+0
+10
+10
+SparkFun-Electromechanical
+ENCODER_LED_3_KIT
+
+
+0
+10
+10
+SparkFun-Electromechanical
+ES
+RIGHT ANGLE SLIDE SWITCH. WORKS WITH PART#ES21MABE
+RIGHT ANGLE SLIDE SWITCH. WORKS WITH PART#ES21MABE
+0
+8
+8
+SparkFun-Electromechanical
+FKIT-LIR2450-H
+
+
+0
+2
+2
+SparkFun-Electromechanical
+FKIT-RIBBON_CONNECTOR_03_2MM_L
+
+
+0
+9
+9
+SparkFun-Electromechanical
+FKIT-RIBBON_CONNECTOR_03_2MM_R
+
+
+0
+9
+9
+SparkFun-Electromechanical
+FKIT-SNAP_FEMALE
+
+
+0
+3
+3
+SparkFun-Electromechanical
+FKIT-SNAP_MALE
+
+
+0
+3
+3
+SparkFun-Electromechanical
+G3VM-61E1
+
+
+0
+6
+6
+SparkFun-Electromechanical
+GPI-152-3013
+SWITCH WITH PART NUMBER: GPI-152-3013
+SWITCH WITH PART NUMBER: GPI-152-3013
+0
+10
+10
+SparkFun-Electromechanical
+JOYSTICK
+
+
+0
+14
+11
+SparkFun-Electromechanical
+JOYSTICK-PSP1000
+
+
+0
+4
+4
+SparkFun-Electromechanical
+JOYSTICK_MINI
+
+
+0
+8
+8
+SparkFun-Electromechanical
+KPS-1290
+
+
+0
+7
+7
+SparkFun-Electromechanical
+KSA_SEALED_TAC_SWITCH
+
+
+0
+4
+4
+SparkFun-Electromechanical
+LIPO-100
+
+
+0
+0
+0
+SparkFun-Electromechanical
+LIPO-110-TABS
+
+
+0
+2
+2
+SparkFun-Electromechanical
+LIPO-1100
+
+
+0
+0
+0
+SparkFun-Electromechanical
+LIPO-1100MAH
+
+
+0
+2
+2
+SparkFun-Electromechanical
+LIPO-2000
+
+
+0
+0
+0
+SparkFun-Electromechanical
+MAGNET-18MM
+
+
+0
+0
+0
+SparkFun-Electromechanical
+MS
+SERIES S SLIDE SWITCH
+SERIES S SLIDE SWITCH
+0
+6
+6
+SparkFun-Electromechanical
+MSS22
+MSS22 DPDT SWITCH
+MSS22 DPDT SWITCH
+0
+10
+10
+SparkFun-Electromechanical
+N35P112
+
+
+0
+13
+13
+SparkFun-Electromechanical
+NAV_SWITCH
+
+
+0
+5
+5
+SparkFun-Electromechanical
+OS
+
+
+0
+6
+6
+SparkFun-Electromechanical
+PCB_MOUNT_SPEAKER
+
+
+0
+2
+2
+SparkFun-Electromechanical
+POT_ALPHA_RV16AF-20
+PACKAGE FOR ALPHA RV16AF-20 POTENTIOMETER
+PACKAGE FOR ALPHA RV16AF-20 POTENTIOMETER
+0
+3
+3
+SparkFun-Electromechanical
+POT_MAMMOTH
+
+
+0
+3
+3
+SparkFun-Electromechanical
+POT_PANASONIC_DUAL_VERT
+PANASONIC DUAL PCB MOUNT POT.
+PANASONIC DUAL PCB MOUNT POT.
+0
+8
+8
+SparkFun-Electromechanical
+POT_PANASONIC_DUAL_VERT_KIT
+
+
+0
+8
+8
+SparkFun-Electromechanical
+POT_PTH
+
+
+0
+5
+5
+SparkFun-Electromechanical
+POT_PTH_SWITCH
+TOPUP PART# 16M1SHB-B3-20KM-A2K-16Y
+TOPUP PART# 16M1SHB-B3-20KM-A2K-16Y
+0
+5
+5
+SparkFun-Electromechanical
+QFN16-3X3MM
+3MM X 3MM QFN 16 PIN
+3MM X 3MM QFN 16 PIN
+0
+17
+17
+SparkFun-Electromechanical
+REED_SWITCH_PLASTIC
+
+
+0
+2
+2
+SparkFun-Electromechanical
+REED_SWITCH_PTH
+
+
+0
+2
+2
+SparkFun-Electromechanical
+RELAY-G5Q
+
+
+0
+5
+5
+SparkFun-Electromechanical
+RELAY-G5V
+G5Q SPDT RELAY (SPARKFUN SKU: COM-00100). FOOTPRINT SHOULD ALSO WORK WITH SPST-NO RELAY.
+G5Q SPDT RELAY (SPARKFUN SKU: COM-00100). FOOTPRINT SHOULD ALSO WORK WITH SPST-NO RELAY.
+0
+6
+6
+SparkFun-Electromechanical
+RELAY-JZC
+
+
+0
+5
+5
+SparkFun-Electromechanical
+RELAY-S108T02
+
+
+0
+4
+4
+SparkFun-Electromechanical
+RELAY-T9A
+BIG RELAY. 220V/30A. SPARKFUN SKU: COM-00101
+BIG RELAY. 220V/30A. SPARKFUN SKU: COM-00101
+0
+5
+4
+SparkFun-Electromechanical
+RELAY-T9A-2
+
+
+0
+5
+4
+SparkFun-Electromechanical
+RELAY-T90
+
+
+0
+5
+4
+SparkFun-Electromechanical
+ROTARY_ENC_PLAIN
+SIMPLE ROTARY ENCODER, NO LED, PUSH CENTER
+SIMPLE ROTARY ENCODER, NO LED, PUSH CENTER
+0
+7
+7
+SparkFun-Electromechanical
+ROTARY_SWITCH_1X10
+TAIWAN ALPHA 1 POLE, 10 POS ROTARY SWITCH
+TAIWAN ALPHA 1 POLE, 10 POS ROTARY SWITCH
+0
+11
+11
+SparkFun-Electromechanical
+ROTARY_SWITCH_1X10_KIT
+
+
+0
+11
+11
+SparkFun-Electromechanical
+R_SW_TH
+
+
+0
+4
+4
+SparkFun-Electromechanical
+SLIDER
+
+
+0
+3
+3
+SparkFun-Electromechanical
+SLIDER-MEDIUM
+
+
+0
+3
+3
+SparkFun-Electromechanical
+SLIDER-MEDIUM-KIT
+
+
+0
+3
+3
+SparkFun-Electromechanical
+SLIDER-SMALL
+
+
+0
+3
+3
+SparkFun-Electromechanical
+STAND-OFF
+STAND OFF
+STAND OFF
+0
+0
+0
+SparkFun-Electromechanical
+STAND-OFF-TIGHT
+STAND OFF
+STAND OFF
+0
+0
+0
+SparkFun-Electromechanical
+STANDOFF-ELECTRICAL
+
+
+0
+1
+1
+SparkFun-Electromechanical
+STOMP-SWITCH-3PDT
+
+
+0
+9
+9
+SparkFun-Electromechanical
+STOMP-SWITCH-DPDT
+STOMP SWITCH
+STOMP SWITCH
+0
+6
+6
+SparkFun-Electromechanical
+SWITCH-4PDT-CNK
+
+
+0
+13
+10
+SparkFun-Electromechanical
+SWITCH-SP3T-SMD
+
+
+0
+8
+8
+SparkFun-Electromechanical
+SWITCH-SPDT
+
+
+0
+3
+3
+SparkFun-Electromechanical
+SWITCH-SPDT-SMD
+
+
+0
+3
+3
+SparkFun-Electromechanical
+SWITCH-SPDT_KIT
+SWITCH-SPDT_KIT
+SWITCH-SPDT_KIT
+0
+3
+3
+SparkFun-Electromechanical
+SWITCH-SPDT_LOCK.007S
+
+
+0
+3
+3
+SparkFun-Electromechanical
+SWITCH-SPST-SMD-A
+
+
+0
+7
+7
+SparkFun-Electromechanical
+SWITCH-SPST-VERTICAL
+
+
+0
+2
+2
+SparkFun-Electromechanical
+SWITCHE-DPDT
+
+
+0
+10
+10
+SparkFun-Electromechanical
+TACTILE-PTH
+OMRON SWITCH
+OMRON SWITCH
+0
+4
+4
+SparkFun-Electromechanical
+TACTILE-PTH-12MM
+
+
+0
+4
+4
+SparkFun-Electromechanical
+TACTILE-PTH-EZ
+
+
+0
+4
+4
+SparkFun-Electromechanical
+TACTILE-PTH-LED-12MM
+
+
+0
+6
+6
+SparkFun-Electromechanical
+TACTILE-PTH-LED-12MM-EZ
+
+
+0
+6
+6
+SparkFun-Electromechanical
+TACTILE-PTH-SIDE
+
+
+0
+4
+3
+SparkFun-Electromechanical
+TACTILE-PTH-SIDEEZ
+
+
+0
+4
+3
+SparkFun-Electromechanical
+TACTILE-SMD-12MM
+
+
+0
+4
+4
+SparkFun-Electromechanical
+TACTILE-SWITCH-1101NE
+SPARKFUN SKU# COM-08229
+SPARKFUN SKU# COM-08229
+0
+2
+2
+SparkFun-Electromechanical
+TACTILE-SWITCH-SMD
+
+
+0
+4
+4
+SparkFun-Electromechanical
+TACTILE_SWITCH-SMD-RIGHT-ANGLE
+
+
+0
+2
+2
+SparkFun-Electromechanical
+TACTILE_SWITCH_SMD-2
+
+
+0
+4
+4
+SparkFun-Electromechanical
+TACTILE_SWITCH_SMD-3
+
+
+0
+4
+4
+SparkFun-Electromechanical
+TACTILE_SWITCH_SMD_4.6X2.8MM
+4.6 X 2.8MM TACTILE SWITCH
+4.6 X 2.8MM TACTILE SWITCH
+0
+4
+4
+SparkFun-Electromechanical
+TACTILE_SWITCH_TALL
+
+
+0
+4
+4
+SparkFun-Electromechanical
+TRACKBALL
+
+
+0
+0
+0
+SparkFun-Electromechanical
+TRIMPOT-3MM
+
+
+0
+3
+3
+SparkFun-Electromechanical
+TRIMPOT-3MM-2
+
+
+0
+3
+3
+SparkFun-Electromechanical
+TRIMPOT-5MM
+
+
+0
+3
+3
+SparkFun-Electromechanical
+TRIMPOT-5MM-V2
+
+
+0
+3
+3
+SparkFun-Electromechanical
+TRIMPOT_5MM
+
+
+0
+3
+3
+SparkFun-Electromechanical
+TRIMPOT_PTH_S3_LOCK
+
+
+0
+3
+3
+SparkFun-Electromechanical
+TRIMPOT_TC33
+
+
+0
+3
+3
+SparkFun-Electromechanical
+TRIM_POT
+
+
+0
+3
+3
+SparkFun-Electromechanical
+TRIM_POT_PTH
+
+
+0
+3
+3
+SparkFun-Electromechanical
+USB-AB-MICRO-SMD
+MICRO USB AB CONNECTOR FOR OTG SUPPORT. 5-PINS: USBVCC, GND, D+, D-, USBID. CAN ACT AS HOST OR DEVICE
+MICRO USB AB CONNECTOR FOR OTG SUPPORT. 5-PINS: USBVCC, GND, D+, D-, USBID. CAN ACT AS HOST OR DEVICE
+0
+9
+9
+SparkFun-Electromechanical
+VIBE-MOTOR-10MM
+
+
+0
+2
+2
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
@@ -73618,69 +74101,13 @@ Transformer Toroid tapped horizontal laying Diameter 14mm Amidon T50
 0
 6
 6
-Type-C
-12401598E4#2A
-
-
+Transformer_THT
+Transformer_Wuerth_750343373
+Transformer, horizontal core with bobbin, 10 pin, 3.81mm pitch, 15.24mm row spacing, 22x23x17.53mm (https://katalog.we-online.com/ctm/datasheet/750343373.pdf)
+transformer flyback
 0
-28
-28
-Type-C
-HRO-TYPE-C-31-M-12
-
-
-0
-16
-13
-Type-C
-HRO-TYPE-C-31-M-12-Assembly
-
-
-0
-16
-13
-Type-C
-HRO-TYPE-C-31-M-12-HandSoldering
-
-
-0
-16
-13
-Type-C
-HRO-TYPE-C-31-M-13
-
-
-0
-16
-13
-Type-C
-USB_C_GCT_USB4085
-
-
-0
-20
-17
-Type-C
-Wurth-632723300011
-
-
-0
-32
-27
-Type-C
-Wurth-632723300011-HandSoldering
-
-
-0
-30
-26
-Type-C
-Wurth-632723300011-MaximumExtensionMount
-
-
-0
-32
-27
+10
+10
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins

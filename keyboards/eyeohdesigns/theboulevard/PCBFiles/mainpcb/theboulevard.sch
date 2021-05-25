@@ -60,8 +60,6 @@ F 3 "~" H 3500 4850 50  0001 C CNN
 	1    3500 4850
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	3500 4600 3500 4700
 Text Label 5900 2900 1    50   ~ 0
 Col2
 Text Label 6850 2900 1    50   ~ 0
@@ -166,17 +164,6 @@ F 1 "10k" V 7834 13800 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 7880 13800 50  0001 C CNN
 F 3 "~" H 7950 13800 50  0001 C CNN
 	1    7950 13800
-	0    1    1    0   
-$EndComp
-$Comp
-L Device:R R1
-U 1 1 5CCDB40D
-P 3850 12900
-F 0 "R1" V 3643 12900 50  0000 C CNN
-F 1 "22" V 3734 12900 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 3780 12900 50  0001 C CNN
-F 3 "~" H 3850 12900 50  0001 C CNN
-	1    3850 12900
 	0    1    1    0   
 $EndComp
 $Comp
@@ -324,7 +311,6 @@ F 3 "" H 8100 13800 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	7400 13800 7800 13800
-NoConn ~ 7400 12900
 Text Label 5250 13400 2    50   ~ 0
 Col0
 Wire Wire Line
@@ -367,8 +353,6 @@ Wire Wire Line
 	7750 13300 7400 13300
 Wire Wire Line
 	7400 13500 7800 13500
-Wire Wire Line
-	7500 13900 7400 13900
 Text Label 7650 13100 0    50   ~ 0
 Row4
 Text Label 7400 14100 0    50   ~ 0
@@ -433,17 +417,6 @@ Col11
 Text Label 5000 14600 2    50   ~ 0
 Col10
 $Comp
-L Device:R R2
-U 1 1 5CCDBD5D
-P 3850 13000
-F 0 "R2" V 3950 13000 50  0000 C CNN
-F 1 "22" V 4050 13000 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 3780 13000 50  0001 C CNN
-F 3 "~" H 3850 13000 50  0001 C CNN
-	1    3850 13000
-	0    1    1    0   
-$EndComp
-$Comp
 L keyboard_parts:KEYSW K13
 U 1 1 5F5A24BC
 P 14850 3850
@@ -504,10 +477,6 @@ Wire Wire Line
 Connection ~ 4450 13250
 Wire Wire Line
 	4450 13250 4450 13400
-Wire Wire Line
-	4000 13000 5250 13000
-Wire Wire Line
-	4000 12900 5250 12900
 $Comp
 L Connector:Conn_01x04_Female J1
 U 1 1 6056CF0D
@@ -522,23 +491,23 @@ $EndComp
 $Comp
 L power:VCC #PWR0118
 U 1 1 605D47CB
-P 3400 12800
-F 0 "#PWR0118" H 3400 12650 50  0001 C CNN
-F 1 "VCC" H 3417 12973 50  0000 C CNN
-F 2 "" H 3400 12800 50  0001 C CNN
-F 3 "" H 3400 12800 50  0001 C CNN
-	1    3400 12800
+P 3400 13100
+F 0 "#PWR0118" H 3400 12950 50  0001 C CNN
+F 1 "VCC" H 3417 13273 50  0000 C CNN
+F 2 "" H 3400 13100 50  0001 C CNN
+F 3 "" H 3400 13100 50  0001 C CNN
+	1    3400 13100
 	0    1    1    0   
 $EndComp
 $Comp
 L power:GND #PWR0119
 U 1 1 606045E4
-P 3400 13100
-F 0 "#PWR0119" H 3400 12850 50  0001 C CNN
-F 1 "GND" V 3405 12972 50  0000 R CNN
-F 2 "" H 3400 13100 50  0001 C CNN
-F 3 "" H 3400 13100 50  0001 C CNN
-	1    3400 13100
+P 3400 12800
+F 0 "#PWR0119" H 3400 12550 50  0001 C CNN
+F 1 "GND" V 3405 12672 50  0000 R CNN
+F 2 "" H 3400 12800 50  0001 C CNN
+F 3 "" H 3400 12800 50  0001 C CNN
+	1    3400 12800
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -567,8 +536,6 @@ Wire Wire Line
 Wire Wire Line
 	10850 5000 11700 5000
 Connection ~ 8900 5000
-Wire Wire Line
-	9850 5000 10850 5000
 Wire Wire Line
 	8900 5000 9850 5000
 Connection ~ 8050 5000
@@ -1002,7 +969,6 @@ Text Label 4100 2950 1    50   ~ 0
 Col0
 Text Label 5050 2950 1    50   ~ 0
 Col1
-Connection ~ 3500 4700
 $Comp
 L keyboard_parts:KEYSW K151
 U 1 1 604BF3A6
@@ -1157,8 +1123,6 @@ F 3 "~" H 3500 5600 50  0001 C CNN
 	1    3500 5600
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	3500 5350 3500 5450
 $Comp
 L Device:D D38
 U 1 1 605CE1B6
@@ -1291,7 +1255,6 @@ F 3 "~" H 4450 5600 50  0001 C CNN
 	1    4450 5600
 	0    -1   -1   0   
 $EndComp
-Connection ~ 3500 5450
 $Comp
 L keyboard_parts:KEYSW K281
 U 1 1 605CE200
@@ -1446,8 +1409,6 @@ F 3 "~" H 3500 6350 50  0001 C CNN
 	1    3500 6350
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	3500 6100 3500 6200
 $Comp
 L Device:D D51
 U 1 1 605FEA64
@@ -1580,7 +1541,6 @@ F 3 "~" H 4450 6350 50  0001 C CNN
 	1    4450 6350
 	0    -1   -1   0   
 $EndComp
-Connection ~ 3500 6200
 $Comp
 L keyboard_parts:KEYSW K411
 U 1 1 605FEAAE
@@ -1713,80 +1673,51 @@ F 3 "" H 14850 6200 60  0000 C CNN
 	1    14850 6200
 	1    0    0    -1  
 $EndComp
-Connection ~ 4100 4700
-Wire Wire Line
-	4100 4700 4100 5450
-Connection ~ 4100 5450
 Wire Wire Line
 	4100 2950 4100 3850
 Connection ~ 4100 3850
 Wire Wire Line
-	4100 3850 4100 4700
-Wire Wire Line
 	5050 2950 5050 3850
 Connection ~ 5050 3850
-Connection ~ 5050 4700
-Wire Wire Line
-	5050 4700 5050 5250
 Connection ~ 5050 5450
 Wire Wire Line
 	5050 5450 5050 6000
 Connection ~ 5900 3850
-Connection ~ 5900 4700
-Connection ~ 5900 5450
 Wire Wire Line
 	5900 5450 5900 6000
 Connection ~ 6850 3850
-Connection ~ 6850 4700
-Wire Wire Line
-	6850 4700 6850 5250
 Connection ~ 6850 5450
 Wire Wire Line
 	6850 5450 6850 6000
 Connection ~ 7700 3850
-Connection ~ 7700 4700
-Wire Wire Line
-	7700 4700 7700 5250
 Wire Wire Line
 	7700 5450 7700 6200
 Connection ~ 7700 5450
 Wire Wire Line
 	8650 6200 8650 6000
 Connection ~ 8650 3850
-Connection ~ 8650 4700
 Connection ~ 8650 5450
 Wire Wire Line
 	8650 5450 8650 5250
 Connection ~ 9500 3850
-Connection ~ 9500 4700
-Wire Wire Line
-	9500 4700 9500 5250
 Connection ~ 9500 5450
 Wire Wire Line
 	9500 5450 9500 6000
 Connection ~ 10450 3850
-Connection ~ 10450 4700
 Connection ~ 10450 5450
 Wire Wire Line
 	10450 5450 10450 5250
 Connection ~ 11450 3850
-Connection ~ 11450 4700
-Wire Wire Line
-	11450 4700 11450 5250
 Connection ~ 11450 5450
 Wire Wire Line
 	11450 5450 11450 5900
 Wire Wire Line
 	12300 6200 12300 5450
 Connection ~ 12300 3850
-Connection ~ 12300 4700
 Connection ~ 12300 5450
 Wire Wire Line
 	12300 5450 12300 5250
 Connection ~ 13250 3850
-Connection ~ 13250 4700
-Wire Wire Line
-	13250 4700 13250 5250
 Connection ~ 13250 5450
 Wire Wire Line
 	13250 5450 13250 6000
@@ -1797,12 +1728,6 @@ Connection ~ 15150 4700
 Connection ~ 15150 5450
 Wire Wire Line
 	15150 5450 15150 6000
-Wire Wire Line
-	14200 3850 14200 4700
-Connection ~ 14200 3850
-Connection ~ 14200 4700
-Wire Wire Line
-	14200 4700 14200 5250
 Connection ~ 14200 5450
 Wire Wire Line
 	14200 5450 14200 5950
@@ -2008,81 +1933,42 @@ Wire Wire Line
 Connection ~ 14550 4700
 Wire Wire Line
 	12650 4500 12650 4700
-Connection ~ 12650 4700
 Wire Wire Line
 	11700 4500 11700 4700
-Connection ~ 11700 4700
 Wire Wire Line
 	9850 4500 9850 4700
-Connection ~ 9850 4700
 Wire Wire Line
 	8900 4500 8900 4700
-Connection ~ 8900 4700
 Wire Wire Line
 	8050 4500 8050 4700
-Connection ~ 8050 4700
 Wire Wire Line
 	7100 4500 7100 4700
-Connection ~ 7100 4700
 Wire Wire Line
 	4450 4500 4450 4700
-Connection ~ 4450 4700
 Wire Wire Line
 	5300 4500 5300 4700
-Connection ~ 5300 4700
 Wire Wire Line
 	6250 4500 6250 4700
-Connection ~ 6250 4700
 Wire Wire Line
 	5050 3850 5050 4500
-Connection ~ 5050 4500
-Wire Wire Line
-	5050 4500 5050 4700
 Wire Wire Line
 	5900 3850 5900 4500
-Connection ~ 5900 4500
-Wire Wire Line
-	5900 4500 5900 4700
 Wire Wire Line
 	6850 3850 6850 4500
-Connection ~ 6850 4500
-Wire Wire Line
-	6850 4500 6850 4700
 Wire Wire Line
 	7700 3850 7700 4500
-Connection ~ 7700 4500
-Wire Wire Line
-	7700 4500 7700 4700
 Wire Wire Line
 	8650 3850 8650 4500
-Connection ~ 8650 4500
-Wire Wire Line
-	8650 4500 8650 4700
 Wire Wire Line
 	9500 3850 9500 4500
-Connection ~ 9500 4500
-Wire Wire Line
-	9500 4500 9500 4700
 Wire Wire Line
 	10450 3850 10450 4500
-Connection ~ 10450 4500
-Wire Wire Line
-	10450 4500 10450 4700
 Wire Wire Line
 	10850 4500 10850 4700
-Connection ~ 10850 4700
 Wire Wire Line
 	11450 3850 11450 4500
-Connection ~ 11450 4500
-Wire Wire Line
-	11450 4500 11450 4700
 Wire Wire Line
 	13250 3850 13250 4500
-Connection ~ 13250 4500
-Wire Wire Line
-	13250 4500 13250 4700
-Wire Wire Line
-	14200 4600 14200 4700
 $Comp
 L keyboard_parts:KEYSW K282
 U 1 1 609B9AF0
@@ -2221,59 +2107,23 @@ Wire Wire Line
 Wire Wire Line
 	4450 5250 4450 5450
 Wire Wire Line
-	5300 5250 5300 5450
-Wire Wire Line
 	6250 5250 6250 5450
-Wire Wire Line
-	5050 4600 5050 4700
-Connection ~ 5050 5250
 Wire Wire Line
 	5050 5250 5050 5450
 Wire Wire Line
-	5900 4600 5900 4700
-Wire Wire Line
-	6850 4600 6850 4700
-Connection ~ 6850 5250
-Wire Wire Line
 	6850 5250 6850 5450
-Wire Wire Line
-	7700 4600 7700 4700
-Connection ~ 7700 5250
 Wire Wire Line
 	7700 5250 7700 5450
 Wire Wire Line
-	8650 4600 8650 4700
-Connection ~ 8650 5250
-Wire Wire Line
-	9500 4600 9500 4700
-Connection ~ 9500 5250
-Wire Wire Line
 	9500 5250 9500 5450
-Wire Wire Line
-	10450 4600 10450 4700
-Connection ~ 10450 5250
 Wire Wire Line
 	10850 5250 10850 5450
 Wire Wire Line
-	11450 4600 11450 4700
-Connection ~ 11450 5250
-Wire Wire Line
 	11450 5250 11450 5450
-Wire Wire Line
-	13250 4600 13250 4700
-Connection ~ 13250 5250
 Wire Wire Line
 	13250 5250 13250 5450
 Wire Wire Line
-	8650 4700 8650 5250
-Wire Wire Line
-	10450 4700 10450 5250
-Connection ~ 14200 5250
-Wire Wire Line
 	14200 5250 14200 5450
-Connection ~ 12300 5250
-Wire Wire Line
-	12300 5250 12300 4700
 $Comp
 L keyboard_parts:KEYSW K453
 U 1 1 60A30ED2
@@ -2307,8 +2157,6 @@ F 3 "" H 11150 6050 60  0000 C CNN
 	1    11150 6050
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	5900 4700 5900 5450
 $Comp
 L keyboard_parts:KEYSW K473
 U 1 1 60A30F20
@@ -2631,17 +2479,10 @@ Wire Wire Line
 	13600 5250 13600 5450
 Connection ~ 13600 5450
 Wire Wire Line
-	4100 5450 4100 6200
-Wire Wire Line
 	3500 5750 4450 5750
 Connection ~ 4450 5750
 Wire Wire Line
 	12300 3850 12300 4500
-Connection ~ 12300 4500
-Wire Wire Line
-	12300 4600 12300 4700
-Wire Wire Line
-	12300 4500 12300 4700
 Text Label 13900 10250 0    50   ~ 0
 Row0
 Text Label 13900 10650 0    50   ~ 0
@@ -2723,7 +2564,140 @@ Wire Wire Line
 Wire Wire Line
 	3900 14100 3250 14100
 Wire Wire Line
-	3700 12900 3400 12900
+	4100 3850 4100 4700
+Connection ~ 4100 4700
 Wire Wire Line
-	3400 13000 3700 13000
+	4100 4700 4100 5450
+Connection ~ 4100 5450
+Wire Wire Line
+	4100 5450 4100 6200
+Connection ~ 4450 4700
+Wire Wire Line
+	5050 4500 5050 4700
+Connection ~ 5050 4500
+Connection ~ 5050 5250
+Connection ~ 5050 4700
+Wire Wire Line
+	5050 4700 5050 5250
+Connection ~ 5300 4700
+Wire Wire Line
+	5900 4500 5900 4700
+Connection ~ 5900 4500
+Connection ~ 5900 5450
+Connection ~ 5900 4700
+Wire Wire Line
+	5900 4700 5900 5450
+Connection ~ 6250 4700
+Wire Wire Line
+	6850 4500 6850 4700
+Connection ~ 6850 4500
+Connection ~ 6850 5250
+Connection ~ 6850 4700
+Wire Wire Line
+	6850 4700 6850 5250
+Connection ~ 8050 4700
+Wire Wire Line
+	8650 4500 8650 4700
+Connection ~ 8650 4500
+Connection ~ 8650 5250
+Connection ~ 8650 4700
+Wire Wire Line
+	8650 4700 8650 5250
+Connection ~ 7100 4700
+Wire Wire Line
+	7700 4500 7700 4700
+Connection ~ 7700 4500
+Connection ~ 7700 5250
+Connection ~ 7700 4700
+Wire Wire Line
+	7700 4700 7700 5250
+Wire Wire Line
+	14200 3850 14200 4700
+Connection ~ 14200 3850
+Connection ~ 14200 5250
+Connection ~ 14200 4700
+Wire Wire Line
+	14200 4700 14200 5250
+Connection ~ 8900 4700
+Wire Wire Line
+	9500 4500 9500 4700
+Connection ~ 9500 4500
+Connection ~ 9500 5250
+Connection ~ 9500 4700
+Wire Wire Line
+	9500 4700 9500 5250
+Wire Wire Line
+	10450 4500 10450 4700
+Connection ~ 10450 4500
+Connection ~ 11700 4700
+Wire Wire Line
+	12300 4500 12300 4700
+Connection ~ 12300 4500
+Connection ~ 12300 5250
+Connection ~ 12300 4700
+Wire Wire Line
+	12300 4700 12300 5250
+Connection ~ 12650 4700
+Wire Wire Line
+	13250 4500 13250 4700
+Connection ~ 13250 4500
+Connection ~ 13250 5250
+Connection ~ 13250 4700
+Wire Wire Line
+	13250 4700 13250 5250
+Connection ~ 10850 4700
+Wire Wire Line
+	11450 4500 11450 4700
+Connection ~ 11450 4500
+Connection ~ 11450 5250
+Connection ~ 11450 4700
+Wire Wire Line
+	11450 4700 11450 5250
+Wire Wire Line
+	9850 5000 10850 5000
+Connection ~ 9850 4700
+Wire Wire Line
+	10450 4700 10450 5250
+Connection ~ 10450 4700
+Connection ~ 10450 5250
+$Comp
+L Device:R R2
+U 1 1 5CCDBD5D
+P 4800 13000
+F 0 "R2" V 4900 13000 50  0000 C CNN
+F 1 "22" V 5000 13000 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 4730 13000 50  0001 C CNN
+F 3 "~" H 4800 13000 50  0001 C CNN
+	1    4800 13000
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 5CCDB40D
+P 4500 12900
+F 0 "R1" V 4293 12900 50  0000 C CNN
+F 1 "22" V 4384 12900 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 4430 12900 50  0001 C CNN
+F 3 "~" H 4500 12900 50  0001 C CNN
+	1    4500 12900
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4950 13000 5250 13000
+Wire Wire Line
+	5250 12900 4650 12900
+Wire Wire Line
+	4350 12900 4350 13000
+Wire Wire Line
+	3400 13000 4350 13000
+Wire Wire Line
+	4650 13000 4400 13000
+Wire Wire Line
+	4400 13000 4400 13050
+Wire Wire Line
+	4400 13050 4050 13050
+Wire Wire Line
+	4050 13050 4050 12900
+Wire Wire Line
+	3400 12900 4050 12900
 $EndSCHEMATC
