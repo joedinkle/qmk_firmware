@@ -1,6 +1,6 @@
 # humble40
 
-![humble40](imgur.com image replace me!)
+![humble40](https://i.imgur.com/0in2la1.jpg)
 
 humble40 is a 40% WKL that supports standard and uniform stagger layouts
 
