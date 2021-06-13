@@ -1,5 +1,14 @@
 ## The purpose of this project was to make a working PCB compatible with the open source case for The Ave.
 
+## 13 June 2021 Commit
+The Case Files folder has been added. At this point I'm going to stop pretending I can do only one portion of this keyboard. Yesterday I ordered all of the case files and the updated PCB that fixes the JST pinout. I'll test the full build once everything arrives
+
+Both of the STLs required modifications in some way.
+
+The top piece now has a slightly larger cutout for the encoder to prevent rubbing. The cutout for the keys on the bottom part of the board weren't perfectly lined up with the top portion of the board, so I fixed that as well.
+
+The bottom piece was modified from the files Royal posted to add physical compatibility with the unified daughterboard.
+
 ## 25 May 2021 Commit
 The JST for the unified daughterboard was reversed. This commit fixes that issue and brings the PCB into compliance with the UDB spec.
 
