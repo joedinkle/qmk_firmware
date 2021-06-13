@@ -1,7 +1,5 @@
-## The purpose of this project was to make a working PCB compatible with the open source case for The Ave.
-
 ## 13 June 2021 Commit
-The Case Files folder has been added. At this point I'm going to stop pretending I can do only one portion of this keyboard. Yesterday I ordered all of the case files and the updated PCB that fixes the JST pinout. I'll test the full build once everything arrives
+The Case Files folder has been added. At this point I'm going to stop pretending I can do only one portion of this keyboard. Yesterday I ordered all of the case files and the updated PCB that fixes the JST pinout. I'll test the full build once everything arrives.
 
 Both of the STLs required modifications in some way.
 
